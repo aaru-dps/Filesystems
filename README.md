@@ -1,0 +1,1 @@
+This contains the test images we use to test and develop the filesystem plugins for Aaru.
