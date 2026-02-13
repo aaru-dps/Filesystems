@@ -1,0 +1,138 @@
+{
+  "Apple HD SC Setup": {
+    "Info": {
+      "Attributes": "BlockUnits, Bundle, HasBeenInited",
+      "Blocks": 0,
+      "BlockSize": 1024,
+      "Inode": 2,
+      "Length": 0,
+      "Links": 1,
+      "CreationTimeUtc": "1987-04-14T11:00:00Z",
+      "LastWriteTimeUtc": "1987-04-14T11:00:00Z"
+    },
+    "Md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "82ff3376742bbddbbe306cbf06cfff24",
+      "com.apple.ResourceFork": "ba74cf35fc83fd4a9e1e026ad61e8a40"
+    }
+  },
+  "Desk Accessories": {
+    "Info": {
+      "Attributes": "BlockUnits, File, HasBeenInited",
+      "Blocks": 0,
+      "BlockSize": 1024,
+      "Inode": 3,
+      "Length": 0,
+      "Links": 1,
+      "CreationTimeUtc": "1987-04-14T11:00:22Z",
+      "LastWriteTimeUtc": "1987-04-14T11:01:40Z"
+    },
+    "Md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "3d7f7c8c504fc470e876e71bc82e2c32",
+      "com.apple.ResourceFork": "98b321618d1ed379b73ea34d459309ae"
+    }
+  },
+  "DeskTop": {
+    "Info": {
+      "Attributes": "BlockUnits, File, Hidden",
+      "Blocks": 0,
+      "BlockSize": 1024,
+      "Inode": 1,
+      "Length": 0,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-07T03:35:24Z",
+      "LastWriteTimeUtc": "2017-07-07T03:35:34Z"
+    },
+    "Md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "0e71660f54c4f230ac078cb99e9dd33f",
+      "com.apple.ResourceFork": "86869d66319be52f34af89969527d2eb"
+    }
+  },
+  "Disk First Aid": {
+    "Info": {
+      "Attributes": "BlockUnits, Bundle, HasBeenInited",
+      "Blocks": 0,
+      "BlockSize": 1024,
+      "Inode": 4,
+      "Length": 0,
+      "Links": 1,
+      "CreationTimeUtc": "1987-04-14T11:00:00Z",
+      "LastWriteTimeUtc": "1987-04-14T11:00:00Z"
+    },
+    "Md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "9893c67e70b0ddd0ebd2ffef95f97344",
+      "com.apple.ResourceFork": "67b22d149721f4a14d0c03b964a864cc"
+    }
+  },
+  "Font:DA Mover": {
+    "Info": {
+      "Attributes": "BlockUnits, Bundle, HasBeenInited",
+      "Blocks": 0,
+      "BlockSize": 1024,
+      "Inode": 5,
+      "Length": 0,
+      "Links": 1,
+      "CreationTimeUtc": "1987-04-14T11:00:00Z",
+      "LastWriteTimeUtc": "1987-04-14T11:00:00Z"
+    },
+    "Md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "9553353fef5f731396711bf04909abbd",
+      "com.apple.ResourceFork": "2553978c96a1f7dce95a5f84e911eb31"
+    }
+  },
+  "Fonts": {
+    "Info": {
+      "Attributes": "BlockUnits, File, HasBeenInited",
+      "Blocks": 0,
+      "BlockSize": 1024,
+      "Inode": 6,
+      "Length": 0,
+      "Links": 1,
+      "CreationTimeUtc": "1987-04-14T11:00:00Z",
+      "LastWriteTimeUtc": "1987-04-14T11:00:00Z"
+    },
+    "Md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "82b94cee0a3a21c78b50ed542996d620",
+      "com.apple.ResourceFork": "4893e32b831a2c287d5e091b87d80d34"
+    }
+  },
+  "HDBackup": {
+    "Info": {
+      "Attributes": "BlockUnits, Bundle, HasBeenInited",
+      "Blocks": 0,
+      "BlockSize": 1024,
+      "Inode": 7,
+      "Length": 0,
+      "Links": 1,
+      "CreationTimeUtc": "1987-01-15T10:32:20Z",
+      "LastWriteTimeUtc": "1987-01-15T10:32:20Z"
+    },
+    "Md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "689bce3036cf6944197b7e6279b6d869",
+      "com.apple.ResourceFork": "62207df77a49de1974870f9668623d0e"
+    }
+  },
+  "TeachText": {
+    "Info": {
+      "Attributes": "BlockUnits, Bundle, HasBeenInited, Shared",
+      "Blocks": 0,
+      "BlockSize": 1024,
+      "Inode": 8,
+      "Length": 0,
+      "Links": 1,
+      "CreationTimeUtc": "1987-01-15T02:04:18Z",
+      "LastWriteTimeUtc": "1987-01-15T02:04:18Z"
+    },
+    "Md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "de50d5ce7bbe239d0c630cdafb798f6a",
+      "com.apple.ResourceFork": "be74a84a30b536542ec3d71010407eb7"
+    }
+  }
+}

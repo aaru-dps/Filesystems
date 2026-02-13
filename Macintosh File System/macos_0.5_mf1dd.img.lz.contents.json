@@ -1,0 +1,19 @@
+{
+  "DeskTop": {
+    "Info": {
+      "Attributes": "BlockUnits, File, Hidden",
+      "Blocks": 0,
+      "BlockSize": 1024,
+      "Inode": 1,
+      "Length": 0,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-07T03:23:46Z",
+      "LastWriteTimeUtc": "2017-07-07T03:23:57Z"
+    },
+    "Md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "0e71660f54c4f230ac078cb99e9dd33f",
+      "com.apple.ResourceFork": "ea59f7d8942e02c1d9253ebced10a9f4"
+    }
+  }
+}

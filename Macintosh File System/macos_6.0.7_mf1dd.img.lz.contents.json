@@ -1,0 +1,36 @@
+{
+  "Desktop": {
+    "Info": {
+      "Attributes": "BlockUnits, File, Hidden",
+      "Blocks": 0,
+      "BlockSize": 1024,
+      "Inode": 1,
+      "Length": 0,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-07T02:57:29Z",
+      "LastWriteTimeUtc": "2017-07-07T02:57:33Z"
+    },
+    "Md5": "d41d8cd98f00b204e9800998ecf8427e",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "0e71660f54c4f230ac078cb99e9dd33f",
+      "com.apple.ResourceFork": "a53c29fdbc7696514a8569bf20f87cec"
+    }
+  },
+  "Read Me": {
+    "Info": {
+      "Attributes": "BlockUnits, File, HasBeenInited",
+      "Blocks": 7,
+      "BlockSize": 1024,
+      "Inode": 2,
+      "Length": 6164,
+      "Links": 1,
+      "CreationTimeUtc": "1990-10-09T12:00:00Z",
+      "LastWriteTimeUtc": "1990-10-09T12:00:00Z"
+    },
+    "Md5": "b6749f19739b55b4ae7ab90c9d2bab0f",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "9b752d6495fb2481d110179cec4ff14e",
+      "com.apple.ResourceFork": "7cf58af815f0ee76b3a9a730bb7b3b6b"
+    }
+  }
+}
