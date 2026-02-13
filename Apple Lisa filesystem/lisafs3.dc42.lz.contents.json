@@ -1,0 +1,362 @@
+{
+  "{!CATALOG}": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 5,
+      "BlockSize": 512,
+      "Inode": 26,
+      "Length": 2560,
+      "Links": 1,
+      "CreationTimeUtc": "1984-06-15T16:38:23Z",
+      "AccessTimeUtc": "1987-10-22T10:47:43Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-12-13T16:53:17Z"
+    },
+    "MD5": "c1e3a8ebcc1577cc8990536e619ae0a3"
+  },
+  "{!CATALOG}$R": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 7,
+      "Length": 512,
+      "Links": 1,
+      "CreationTimeUtc": "1984-06-15T16:38:25Z",
+      "AccessTimeUtc": "1984-12-13T16:59:27Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-06-15T16:38:25Z"
+    },
+    "MD5": "d73e4758670927245ba1e6e26d1f0bea"
+  },
+  "{!SaveDesktop}": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 27,
+      "Length": 14,
+      "Links": 1,
+      "CreationTimeUtc": "1984-06-15T16:39:08Z",
+      "AccessTimeUtc": "1987-10-22T10:47:40Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1987-10-22T10:47:40Z"
+    },
+    "MD5": "d5b2fd942f011844284693660916a7dd"
+  },
+  "apin-syslib.obj": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 153,
+      "BlockSize": 512,
+      "Inode": 24,
+      "Length": 78336,
+      "Links": 1,
+      "CreationTimeUtc": "1984-06-15T10:59:34Z",
+      "AccessTimeUtc": "1994-07-24T18:42:26Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-06-15T11:00:01Z"
+    },
+    "MD5": "82ab2d33873c70417e935559128dda7c"
+  },
+  "FONT.HEUR": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 3,
+      "BlockSize": 512,
+      "Inode": 5,
+      "Length": 1536,
+      "Links": 1,
+      "CreationTimeUtc": "1984-12-12T12:20:34Z",
+      "AccessTimeUtc": "1994-07-24T18:32:37Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-12-12T12:21:23Z"
+    },
+    "MD5": "6451db55c354c36aa7ce5e53efb1c868"
+  },
+  "font.lib": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 12,
+      "BlockSize": 512,
+      "Inode": 6,
+      "Length": 5746,
+      "Links": 1,
+      "CreationTimeUtc": "1984-03-02T15:44:16Z",
+      "AccessTimeUtc": "1994-07-24T18:32:38Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-03-02T15:44:29Z"
+    },
+    "MD5": "e84c831a0eca0165a2fcdf063c94f14a"
+  },
+  "intrinsic.lib": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 3,
+      "BlockSize": 512,
+      "Inode": 25,
+      "Length": 1536,
+      "Links": 1,
+      "CreationTimeUtc": "1984-06-15T16:35:45Z",
+      "AccessTimeUtc": "1993-02-23T13:17:54Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-06-15T16:36:01Z"
+    },
+    "MD5": "fb3c3e5ed48d12a0e0cfcd1dbacd7dd3"
+  },
+  "iospaslib.obj": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 48,
+      "BlockSize": 512,
+      "Inode": 21,
+      "Length": 24576,
+      "Links": 1,
+      "CreationTimeUtc": "1984-06-15T10:58:20Z",
+      "AccessTimeUtc": "1994-07-24T18:42:26Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-06-15T10:58:40Z"
+    },
+    "MD5": "0d622908d38dd33984788756c71b15c0"
+  },
+  "officephrase": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 34,
+      "BlockSize": 512,
+      "Inode": 8,
+      "Length": 17302,
+      "Links": 1,
+      "CreationTimeUtc": "1984-06-15T10:53:10Z",
+      "AccessTimeUtc": "1994-07-24T18:42:25Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-06-15T10:53:17Z"
+    },
+    "MD5": "680db0d5898af73c836646089106b389"
+  },
+  "SYSTEM.BT_PRIAM DISK": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 22,
+      "BlockSize": 512,
+      "Inode": 10,
+      "Length": 11264,
+      "Links": 1,
+      "CreationTimeUtc": "1984-04-17T12:13:27Z",
+      "AccessTimeUtc": "1991-06-01T11:52:16Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-04-17T12:13:54Z"
+    },
+    "MD5": "ca0a891b5cded20446e0c4e98debafd5"
+  },
+  "SYSTEM.BT_PROFILE": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 23,
+      "BlockSize": 512,
+      "Inode": 9,
+      "Length": 11776,
+      "Links": 1,
+      "CreationTimeUtc": "1984-03-15T16:13:45Z",
+      "AccessTimeUtc": "1985-04-30T18:59:30Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-03-15T16:14:11Z"
+    },
+    "MD5": "ddacfc3262f01a9ad01560f51c3e35a1"
+  },
+  "SYSTEM.CD_2 PORT CARD": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 2,
+      "BlockSize": 512,
+      "Inode": 12,
+      "Length": 1024,
+      "Links": 1,
+      "CreationTimeUtc": "1984-04-17T12:17:15Z",
+      "AccessTimeUtc": "1994-07-24T18:33:33Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-04-17T12:17:21Z"
+    },
+    "MD5": "87e2e457fd1def32aef783dd0de640e7"
+  },
+  "SYSTEM.CD_ARCHIVE TAPE": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 8,
+      "BlockSize": 512,
+      "Inode": 17,
+      "Length": 4096,
+      "Links": 1,
+      "CreationTimeUtc": "1984-04-17T12:16:13Z",
+      "AccessTimeUtc": "1991-06-01T11:52:19Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-04-17T12:16:22Z"
+    },
+    "MD5": "c31bb9539b91bacdcabbee94c2665f49"
+  },
+  "SYSTEM.CD_CONSOLE": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 10,
+      "BlockSize": 512,
+      "Inode": 18,
+      "Length": 5120,
+      "Links": 1,
+      "CreationTimeUtc": "1984-04-17T12:17:53Z",
+      "AccessTimeUtc": "1994-07-24T18:32:29Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-04-17T12:18:02Z"
+    },
+    "MD5": "d3f965076afc6025b9f0af0aaf466df9"
+  },
+  "SYSTEM.CD_PRIAM CARD": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 4,
+      "BlockSize": 512,
+      "Inode": 13,
+      "Length": 2048,
+      "Links": 1,
+      "CreationTimeUtc": "1984-04-17T12:15:38Z",
+      "AccessTimeUtc": "1991-06-01T11:52:22Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-04-17T12:15:45Z"
+    },
+    "MD5": "0ded1b51a5ada26bb62170b06ad43fff"
+  },
+  "SYSTEM.CD_PRIAM DISK": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 7,
+      "BlockSize": 512,
+      "Inode": 16,
+      "Length": 3584,
+      "Links": 1,
+      "CreationTimeUtc": "1984-04-26T13:21:26Z",
+      "AccessTimeUtc": "1991-06-01T11:52:25Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-04-26T13:21:34Z"
+    },
+    "MD5": "af0e9984899852aea0702eb98b9ee92d"
+  },
+  "SYSTEM.CD_PROFILE": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 11,
+      "BlockSize": 512,
+      "Inode": 15,
+      "Length": 5632,
+      "Links": 1,
+      "CreationTimeUtc": "1984-04-17T12:16:53Z",
+      "AccessTimeUtc": "1994-07-24T18:33:32Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-04-17T12:17:03Z"
+    },
+    "MD5": "9c867b6fa80bb9779492829ebabd5546"
+  },
+  "SYSTEM.CD_SONY": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 7,
+      "BlockSize": 512,
+      "Inode": 14,
+      "Length": 3584,
+      "Links": 1,
+      "CreationTimeUtc": "1984-04-17T12:16:32Z",
+      "AccessTimeUtc": "1985-04-30T18:59:51Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-04-17T12:16:41Z"
+    },
+    "MD5": "73c7a2bdcd343ae279e9880c6cc8d990"
+  },
+  "SYSTEM.CDD": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 3,
+      "BlockSize": 512,
+      "Inode": 11,
+      "Length": 1536,
+      "Links": 1,
+      "CreationTimeUtc": "1984-01-27T11:04:15Z",
+      "AccessTimeUtc": "1994-07-24T18:33:30Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-04-17T16:20:43Z"
+    },
+    "MD5": "ad360005f9f3fe253ccfff1a29293c22"
+  },
+  "system.IUDirectory": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 16,
+      "BlockSize": 512,
+      "Inode": 28,
+      "Length": 0,
+      "Links": 1,
+      "CreationTimeUtc": "1984-06-15T16:41:56Z",
+      "AccessTimeUtc": "1993-02-23T13:56:47Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1901-01-01T01:01:00Z"
+    },
+    "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "SYSTEM.LLD": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 20,
+      "BlockSize": 512,
+      "Inode": 19,
+      "Length": 10240,
+      "Links": 1,
+      "CreationTimeUtc": "1984-04-04T14:20:56Z",
+      "AccessTimeUtc": "1985-04-30T18:59:56Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-04-04T14:21:05Z"
+    },
+    "MD5": "799cba51a8c10c74516ad79b6f1ca880"
+  },
+  "system.os": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 277,
+      "BlockSize": 512,
+      "Inode": 22,
+      "Length": 141824,
+      "Links": 1,
+      "CreationTimeUtc": "1984-11-15T15:25:30Z",
+      "AccessTimeUtc": "1993-02-23T13:56:47Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-11-15T15:26:29Z"
+    },
+    "MD5": "f189ec7bff881469b68d07e21f7aa5f5"
+  },
+  "system.shell": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 35,
+      "BlockSize": 512,
+      "Inode": 23,
+      "Length": 17920,
+      "Links": 1,
+      "CreationTimeUtc": "1984-10-04T10:35:43Z",
+      "AccessTimeUtc": "1994-07-24T18:42:26Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-10-04T10:36:10Z"
+    },
+    "MD5": "61862d8528a369f923ec0e1c4f477f9a"
+  },
+  "system.unpack": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 2,
+      "BlockSize": 512,
+      "Inode": 20,
+      "Length": 1024,
+      "Links": 1,
+      "CreationTimeUtc": "1984-05-09T08:36:31Z",
+      "AccessTimeUtc": "1985-04-30T19:00:17Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1984-05-09T08:36:31Z"
+    },
+    "MD5": "64f2380998c6d84798f3e0661ad47c3c"
+  }
+}

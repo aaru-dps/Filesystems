@@ -1,0 +1,65 @@
+{
+  "{!CATALOG}": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 5,
+      "BlockSize": 512,
+      "Inode": 5,
+      "Length": 2560,
+      "Links": 1,
+      "CreationTimeUtc": "1987-03-22T04:35:44Z",
+      "AccessTimeUtc": "1987-04-10T19:56:13Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1987-04-10T19:56:13Z"
+    },
+    "MD5": "560c961e66c5acc5cbd5fbdeb3689acc"
+  },
+  "{!CATALOG}$R": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 6,
+      "Length": 512,
+      "Links": 1,
+      "CreationTimeUtc": "1987-03-22T04:35:44Z",
+      "AccessTimeUtc": "1987-03-22T04:35:44Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1987-03-22T04:35:44Z"
+    },
+    "MD5": "e34889efc4ce1d32fad91abe6b6f8b8a"
+  },
+  "{!SaveDesktop}": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 7,
+      "Length": 14,
+      "Links": 1,
+      "CreationTimeUtc": "1987-03-22T04:35:44Z",
+      "AccessTimeUtc": "1987-04-10T19:56:12Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1987-04-10T19:56:12Z"
+    },
+    "MD5": "ace458e1e3cc297da64a0ad8df7ee835"
+  },
+  "{F7}": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 0,
+      "BlockSize": 512,
+      "Inode": 8,
+      "Length": 0,
+      "Links": 1,
+      "CreationTimeUtc": "1969-01-19T03:14:08Z",
+      "AccessTimeUtc": "1987-04-10T19:56:09Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1969-01-19T03:14:08Z"
+    },
+    "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+    "XattrsWithMd5": {
+      "com.apple.lisa.label": "561228286e80004d2d3ce4074b7b4780"
+    }
+  }
+}

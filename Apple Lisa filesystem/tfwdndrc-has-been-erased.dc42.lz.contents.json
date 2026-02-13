@@ -1,0 +1,47 @@
+{
+  "{!CATALOG}": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 5,
+      "BlockSize": 512,
+      "Inode": 5,
+      "Length": 2560,
+      "Links": 1,
+      "CreationTimeUtc": "1987-03-22T04:48:35Z",
+      "AccessTimeUtc": "1987-03-22T04:48:42Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1987-03-22T04:48:42Z"
+    },
+    "MD5": "b20941ff26115dfd4d791be2e1fecc2f"
+  },
+  "{!CATALOG}$R": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 6,
+      "Length": 512,
+      "Links": 1,
+      "CreationTimeUtc": "1987-03-22T04:48:35Z",
+      "AccessTimeUtc": "1987-03-22T04:48:35Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1987-03-22T04:48:35Z"
+    },
+    "MD5": "d1a12940f1295e0fa01a2c938e820dd6"
+  },
+  "{!SaveDesktop}": {
+    "Info": {
+      "Attributes": "Extents, File",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 7,
+      "Length": 14,
+      "Links": 1,
+      "CreationTimeUtc": "1987-03-22T04:48:35Z",
+      "AccessTimeUtc": "1987-03-22T04:48:42Z",
+      "BackupTimeUtc": "1901-01-01T01:01:00Z",
+      "LastWriteTimeUtc": "1987-03-22T04:48:42Z"
+    },
+    "MD5": "ace458e1e3cc297da64a0ad8df7ee835"
+  }
+}
