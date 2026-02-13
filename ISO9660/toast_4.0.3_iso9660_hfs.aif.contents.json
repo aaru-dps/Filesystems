@@ -1,0 +1,3779 @@
+{
+  "ATTRS": {
+    "Children": {
+      "ALIAS": {
+        "Info": {
+          "Attributes": "Alias",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 689,
+          "Length": 34,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "625567c89f03c1267d185eab8ab1dc9d",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "a45ab4a52a1ce16325bb8a90813380bb"
+        }
+      },
+      "ALL": {
+        "Info": {
+          "Attributes": "Alias, Bundle, HasBeenInited, HasCustomIcon, HasNoINITs, Hidden, IsOnDesk, Shared, Stationery",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 690,
+          "Length": 34,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "bdc64b71e6ee9e3013baac51f1172005",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "6d0af1d85c14fd7cfb99b9ff29b0bd5c"
+        }
+      },
+      "AOCE": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 760,
+          "Length": 28,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "d8219e47f8232c1ce447b7712b2559dd",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "f5382a45ed59d67b52874fac74762c71"
+        }
+      },
+      "BLUE": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 761,
+          "Length": 27,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "f3a8a5a83691d00b0ba046b663c8e60f",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "126787e3f84b9f97a46b30502283452f"
+        }
+      },
+      "BROWN": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 762,
+          "Length": 28,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "8c106b1df5a8c2d380fb0e2c08a413d8",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "a84d042ac4e891c076d7cb58cb184703"
+        }
+      },
+      "BUNDLE": {
+        "Info": {
+          "Attributes": "Bundle",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 763,
+          "Length": 31,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "da2977f16df599ce8d46116dd5c6115a",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "6987fb8ab2ddfed63d5761aec9caaa77"
+        }
+      },
+      "DIC": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 764,
+          "Length": 30,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "4393aad60d2c9f45835f2b6c00a24a44",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "ad4c43f5333c69bdd3902e93e1d4fe4d"
+        }
+      },
+      "GREEN": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 765,
+          "Length": 28,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "d535bb86ac843079f675c7c3112fe069",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "b682d29e899b0115625898bb73dbe965"
+        }
+      },
+      "ICON": {
+        "Info": {
+          "Attributes": "HasCustomIcon",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 691,
+          "Length": 29,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "57c2bae516931f5671d654404d3911cf",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "2f18f0a7616c6bd6233ddb3b939a7515"
+        }
+      },
+      "INDESK": {
+        "Info": {
+          "Attributes": "IsOnDesk",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 766,
+          "Length": 25,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "ad50ad88860307911d3267fb2337fa0d",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "5a90b9eed9b1980fe0b5ca7a3b6add2c"
+        }
+      },
+      "INITED": {
+        "Info": {
+          "Attributes": "HasBeenInited",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 767,
+          "Length": 27,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "23161ef9a6db21ef0c3ef73d59ee5a97",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "87637de1a9502c3ee33e9a59d136b69c"
+        }
+      },
+      "INVISIBLE": {
+        "Info": {
+          "Attributes": "Hidden",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 768,
+          "Length": 24,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "23cbdb7483c2c35500454863d6b0143d",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "7c25bc9a0bb2dff50cfad857aeb78d91"
+        }
+      },
+      "LILAC": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 769,
+          "Length": 28,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "2820d31f686eb3d95ff9b7da27c80734",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "6d22e62da24d5fe66274647ca4a21b60"
+        }
+      },
+      "LOCKED": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 770,
+          "Length": 31,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "7f91e1ae5f27c6cb9a63b3a349467c14",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "d8ae2436f32be3ed25c40085d60de0a5"
+        }
+      },
+      "MAGENTA": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 771,
+          "Length": 30,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "69b25b9909de7271847b0980c3507483",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "4f0402c046a51db6dba9efc82244b6ba"
+        }
+      },
+      "NOINIT": {
+        "Info": {
+          "Attributes": "HasNoINITs",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 772,
+          "Length": 28,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "b07a6c4d8809d71a95576d95007dd85e",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "01fc1c5405b934b4baab7810ba5155a7"
+        }
+      },
+      "NONE": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 773,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "b8840dde373dff933476f88cb1400402",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "ORANGE": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 774,
+          "Length": 29,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "dde21135eff34ef95bb2594dae5651e6",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "5300d55c05336a20ee4cf131c3c4805a"
+        }
+      },
+      "POS_1_1": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 775,
+          "Length": 29,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "8b06a3a4bf3f7e196ae4397f28e1fd95",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "POS_1_32": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 776,
+          "Length": 30,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "bab6829c3ba1a36a65eefc7ffe5394ce",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "POS_1_M1": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 777,
+          "Length": 30,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "6c527c4875d33b4055beeae2d19b3ad8",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "POS_1_M32": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 778,
+          "Length": 31,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "7856d00378f30105ab013b0dc2e4cc41",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "POS_32_32": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 779,
+          "Length": 31,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "7851af3af15de71d07389aa9041d6d2d",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "POS_M1_1": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 780,
+          "Length": 30,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "44d9ab8830dd7979768c6ff9d5f65812",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "POS_M1_32": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 781,
+          "Length": 31,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "f8c0800cc33b3528f0ecf4e3307d0bec",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "POS_M1_M1": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 782,
+          "Length": 31,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "16471c64ec2fb0b387166b34b3417cd6",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "POS_M1_M32": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 783,
+          "Length": 32,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "0ee553a57c3ca259c304d0e6fdc48878",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "POS_M32_M32": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 784,
+          "Length": 33,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "4e6e05b8a6e25feb09f70218b686b2ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "RED": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 785,
+          "Length": 26,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "4d2a9be19ffb55953d2f78c3f9968c8b",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "5d265cc2c0de8ab3c7169786a9ba7b85"
+        }
+      },
+      "SHARED": {
+        "Info": {
+          "Attributes": "Shared",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 786,
+          "Length": 21,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "7b0c91468002fe7115ce47cabeabc1e7",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "30f39904930ebf34323c45501d92806d"
+        }
+      },
+      "SIMPLE": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 787,
+          "Length": 30,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "2d296fcad1bcab99c54129f75c81a98f",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "STATIONERY": {
+        "Info": {
+          "Attributes": "Stationery",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 788,
+          "Length": 22,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "028f44d57ab3eca5201a60707ac4067f",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "f9f8f53806b14442fd5bc4f08a73b695"
+        }
+      },
+      "SWITCH": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 789,
+          "Length": 34,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "a529fa40586149db50a1ddd8773faa15",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "5fc2e22a80a24487ed0921424da16920"
+        }
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 2,
+      "BlockSize": 2048,
+      "Inode": 44,
+      "Length": 4096,
+      "Links": 1,
+      "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+      "LastWriteTime": "2019-05-11T17:14:07+01:00"
+    }
+  },
+  "DELETED": {
+    "Children": {},
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 2048,
+      "Inode": 46,
+      "Length": 2048,
+      "Links": 1,
+      "LastWriteTimeUtc": "2019-05-11T16:14:39Z",
+      "LastWriteTime": "2019-05-11T17:14:39+01:00"
+    }
+  },
+  "FILENAME": {
+    "Children": {
+      " FILNA": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 790,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "61a094650daebac69f04d4419102c6f7",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "\u0022QUOT\u0022": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 791,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "a4b017b46d2206283b1bccf9773bdb8f",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "\u0027QUOT\u0027": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 792,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "9579359260d465406991d2e0d79e1283",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "..NAME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 793,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "c9ef13d39bf24c2b6d7624e800c6172b",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      ".NAME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 794,
+          "Length": 35,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "ef322df006379c8dc4f8153a39ccbcf2",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "CamUpr": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 797,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "07fcbbfdb5a83f316bca6144ff7e5662",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "Dromed": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 798,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "c067a4890bcef1819dbae511dc4ce966",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "FIL NA": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 800,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "17c71930dbe9da683ed5fa0a8892497b",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "FILE . XT": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 801,
+          "Length": 39,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "7239908c2bdbdd4b19b9bc3e9fffdcfa",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "FILE .EXT": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 802,
+          "Length": 39,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "9e2e9dc7190446ee07e957bc158d070c",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "FILE. XT": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 803,
+          "Length": 38,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "c67b9525b00e0e146a05c173934096e8",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "FILENAME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 804,
+          "Length": 38,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "9b5dcd70c8cddaee44a41792f8340470",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "FILENAME.EXT": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 805,
+          "Length": 42,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "fb914240c799509422ca8105049cc941",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "FILNA ": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 806,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "80b2d6100700e7ef17d7682215f9f822",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "FILNAM": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 807,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "1f79077005f6be5fa09d403c63a0467a",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "FILNAM.EXT": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 808,
+          "Length": 40,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "0c96e8634b3e65a4693d30f2cfcd7f27",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "FifteenCharacts": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 799,
+          "Length": 45,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "f07a021f03daaa225479e43ebbd167de",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "Fourteen_Chars": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 809,
+          "Length": 44,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "ef8b4b3cd0aff55e154e50bf4bae16a6",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "N!A!M!": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 812,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "a3964caa23ebde979ac7d9814235ad03",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "N$ME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 813,
+          "Length": 34,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "658bacff1daf0aed79c31cc027b5c077",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "N.A.ME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 815,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "45d1cb19bf9347838f293bf4e070eb96",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "N\u003CAME\u003C": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 816,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "e78f899983524a9da9473c4e8d9d4ca7",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "N@ME@": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 817,
+          "Length": 35,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "8907cfbdbf2fa0c21ae2dd62181d9ecd",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "NA%%ME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 818,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "cac41c18d13e1d28ea5cd2e5a7904afa",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "NA-ME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 819,
+          "Length": 35,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "fd13668c4e54b1d4338e607673aa0f36",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "NA\u003EME\u003E": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 821,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "bca65286bb26ab67491d3cb147d0afe5",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "NAM#": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 823,
+          "Length": 34,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "d36e6828d841af3ac7107775fc2a3598",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "NAME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 824,
+          "Length": 35,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "d9920b6c392e5767b3610e77c93ed444",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "NAME.": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 825,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "bb8f97bec77ea97a93afd4c429fd70d6",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "NA_ME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 822,
+          "Length": 70,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "3a81f23138c6a2f70c3f53fbe712954b",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "N_A_ME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 814,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "2d999f6db20fe7cad5b5e69f740c9dba",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "N|AME|": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 826,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "6dee7fec3b498c841224a11aa19c7390",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "Sixteen_Characts": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 827,
+          "Length": 46,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "4d9bd8894047e34f65d18f9507fe95cd",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "This name has thirty charactrs": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 828,
+          "Length": 60,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "6e78e7168c7ebae67d26db00391b60e1",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "Twenty_One_Characters": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 829,
+          "Length": 51,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "00c12b82f4ae787513043553e22c081b",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "UPPCAS": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 830,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "328d25531669ddff231488c7c0a2fd78",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "UPPER.low": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 831,
+          "Length": 39,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "45260456b9723db022516883273828de",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "_NAME_": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 796,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "26d6ae64eeaac65cdb4549abc25d430f",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "_NM_E_": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 795,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "052032b38afdad76a6c46a919734e071",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "lowcas": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 810,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "f44b1a97a2830fcdf822f4a082745513",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "lower.UP": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 811,
+          "Length": 38,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "957901ab5bc99f8768f57e3c0587f0b9",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 2,
+      "BlockSize": 2048,
+      "Inode": 47,
+      "Length": 4096,
+      "Links": 1,
+      "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+      "LastWriteTime": "2019-05-11T17:14:08+01:00"
+    }
+  },
+  "FRAGS": {
+    "Children": {
+      "FRAGSIXQ": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 6,
+          "BlockSize": 2048,
+          "Inode": 832,
+          "Length": 11264,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:13Z",
+          "LastWriteTime": "2019-05-11T17:14:13+01:00"
+        },
+        "Md5": "3547aaf36edd21f981220e2e20b028fc",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "FRAGTHRQ": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 2,
+          "BlockSize": 2048,
+          "Inode": 838,
+          "Length": 3072,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:13Z",
+          "LastWriteTime": "2019-05-11T17:14:13+01:00"
+        },
+        "Md5": "db5d3f58996c4fabcf7c699d31bb4eb0",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "HALFCLST": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 840,
+          "Length": 2048,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:13Z",
+          "LastWriteTime": "2019-05-11T17:14:13+01:00"
+        },
+        "Md5": "02955ec15db42968fe1d4a1b46f8776b",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "QUARCLST": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 841,
+          "Length": 1024,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:13Z",
+          "LastWriteTime": "2019-05-11T17:14:13+01:00"
+        },
+        "Md5": "edd64652f8213fd151653c45209cbced",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "TRQTCLST": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 2,
+          "BlockSize": 2048,
+          "Inode": 842,
+          "Length": 3072,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:13Z",
+          "LastWriteTime": "2019-05-11T17:14:13+01:00"
+        },
+        "Md5": "db5d3f58996c4fabcf7c699d31bb4eb0",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "TWOCLST": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 4,
+          "BlockSize": 2048,
+          "Inode": 844,
+          "Length": 8192,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:13Z",
+          "LastWriteTime": "2019-05-11T17:14:13+01:00"
+        },
+        "Md5": "7045e20a96c88e7d0eb888750816d80b",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "TWOQCLST": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 6,
+          "BlockSize": 2048,
+          "Inode": 848,
+          "Length": 11264,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:13Z",
+          "LastWriteTime": "2019-05-11T17:14:13+01:00"
+        },
+        "Md5": "3547aaf36edd21f981220e2e20b028fc",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 2048,
+      "Inode": 49,
+      "Length": 2048,
+      "Links": 1,
+      "LastWriteTimeUtc": "2019-05-11T16:14:13Z",
+      "LastWriteTime": "2019-05-11T17:14:13+01:00"
+    }
+  },
+  "LINKS": {
+    "Children": {
+      "ALIAS_00": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 854,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_01": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 855,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_02": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 856,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_03": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 857,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_04": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 858,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_05": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 859,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_06": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 860,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_07": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 861,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_08": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 862,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_09": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 863,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_10": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 864,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_11": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 865,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_12": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 866,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_13": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 867,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_14": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 868,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_15": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 869,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_16": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 870,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_17": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 871,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_18": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 872,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_19": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 873,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_20": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 874,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_21": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 875,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_22": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 876,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_23": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 877,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_24": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 878,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_25": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 879,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_26": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 880,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_27": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 881,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_28": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 882,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_29": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 883,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_30": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 884,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_31": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 885,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_32": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 886,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_33": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 887,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_34": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 888,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_35": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 889,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_36": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 890,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_37": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 891,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_38": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 892,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_39": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 893,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_40": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 894,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_41": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 895,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_42": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 896,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_43": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 897,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_44": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 898,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_45": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 899,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_46": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 900,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_47": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 901,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_48": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 902,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_49": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 903,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_50": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 904,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_51": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 905,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_52": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 906,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_53": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 907,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_54": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 908,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_55": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 909,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_56": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 910,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_57": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 911,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_58": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 912,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_59": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 913,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_60": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 914,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_61": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 915,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_62": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 916,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "ALIAS_63": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 917,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET00": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 854,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET01": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 855,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET02": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 856,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET03": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 857,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+          "LastWriteTime": "2019-05-11T17:14:08+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET04": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 858,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET05": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 859,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET06": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 860,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET07": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 861,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET08": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 862,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET09": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 863,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET10": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 864,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET11": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 865,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET12": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 866,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET13": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 867,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET14": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 868,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET15": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 869,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET16": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 870,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET17": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 871,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET18": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 872,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET19": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 873,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET20": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 874,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET21": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 875,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET22": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 876,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET23": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 877,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET24": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 878,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET25": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 879,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET26": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 880,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:09Z",
+          "LastWriteTime": "2019-05-11T17:14:09+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET27": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 881,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET28": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 882,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET29": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 883,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET30": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 884,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET31": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 885,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET32": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 886,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET33": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 887,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET34": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 888,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET35": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 889,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET36": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 890,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET37": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 891,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET38": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 892,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET39": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 893,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET40": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 894,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET41": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 895,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET42": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 896,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET43": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 897,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET44": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 898,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET45": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 899,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET46": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 900,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:10Z",
+          "LastWriteTime": "2019-05-11T17:14:10+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET47": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 901,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET48": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 902,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET49": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 903,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET50": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 904,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET51": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 905,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET52": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 906,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET53": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 907,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET54": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 908,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET55": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 909,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET56": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 910,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET57": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 911,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET58": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 912,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET59": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 913,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET60": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 914,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET61": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 915,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET62": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 916,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      },
+      "TARGET63": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 917,
+          "Length": 37,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+          "LastWriteTime": "2019-05-11T17:14:11+01:00"
+        },
+        "Md5": "d9cb42a7bed9818247aa36a0f3ada4ef",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "da78256a970d0b7bfaa007caf4fedde6"
+        }
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 5,
+      "BlockSize": 2048,
+      "Inode": 50,
+      "Length": 10240,
+      "Links": 1,
+      "LastWriteTimeUtc": "2019-05-11T16:14:11Z",
+      "LastWriteTime": "2019-05-11T17:14:11+01:00"
+    }
+  },
+  "RSRC": {
+    "Children": {
+      "ALL": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 926,
+          "Length": 77,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "9ac3842d34d1c070ef100df478bb3396",
+        "XattrsWithMd5": {
+          "com.apple.ResourceFork": "7543896c5dd66a1dbbba139854bee6a9"
+        }
+      },
+      "ICON": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 759,
+          "Length": 77,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "9ac3842d34d1c070ef100df478bb3396",
+        "XattrsWithMd5": {
+          "com.apple.ResourceFork": "e073ea9ffc4da9485d88021f1affb453"
+        }
+      },
+      "PICT": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 932,
+          "Length": 77,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "9ac3842d34d1c070ef100df478bb3396",
+        "XattrsWithMd5": {
+          "com.apple.ResourceFork": "e0745587c709807f58105ac25cf98d9d"
+        }
+      },
+      "VERSION": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 934,
+          "Length": 77,
+          "Links": 1,
+          "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+          "LastWriteTime": "2019-05-11T17:14:07+01:00"
+        },
+        "Md5": "9ac3842d34d1c070ef100df478bb3396",
+        "XattrsWithMd5": {
+          "com.apple.ResourceFork": "922f38b6529958f91573463455b17934"
+        }
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 2048,
+      "Inode": 55,
+      "Length": 2048,
+      "Links": 1,
+      "LastWriteTimeUtc": "2019-05-11T16:14:07Z",
+      "LastWriteTime": "2019-05-11T17:14:07+01:00"
+    }
+  },
+  "TIMES": {
+    "Children": {
+      "MAXBTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 936,
+          "Length": 50,
+          "Links": 1,
+          "LastWriteTimeUtc": "1904-01-01T00:00:00Z",
+          "LastWriteTime": "1903-12-31T22:59:00-01:01"
+        },
+        "Md5": "304bdc593df90a26921919ce3e20ad89",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "MAXCTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 937,
+          "Length": 52,
+          "Links": 1,
+          "LastWriteTimeUtc": "1904-01-01T00:00:00Z",
+          "LastWriteTime": "1903-12-31T22:59:00-01:01"
+        },
+        "Md5": "41811a9d3aa267f5c85359f7921feb2f",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "MAXMTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 938,
+          "Length": 56,
+          "Links": 1,
+          "LastWriteTimeUtc": "2040-02-06T06:28:15Z",
+          "LastWriteTime": "2040-02-06T06:28:15+00:00"
+        },
+        "Md5": "02d7ee90051fb77d7fe9bf40f927c586",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "MAXTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 939,
+          "Length": 47,
+          "Links": 1,
+          "LastWriteTimeUtc": "2040-02-06T06:28:15Z",
+          "LastWriteTime": "2040-02-06T06:28:15+00:00"
+        },
+        "Md5": "8c10ed30b1ed90a65603a42377d4f677",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "MINBTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 940,
+          "Length": 50,
+          "Links": 1,
+          "LastWriteTimeUtc": "1904-01-01T00:00:00Z",
+          "LastWriteTime": "1903-12-31T22:59:00-01:01"
+        },
+        "Md5": "61e4064145a5bb05a968c7f071f9657d",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "MINCTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 941,
+          "Length": 52,
+          "Links": 1,
+          "LastWriteTimeUtc": "1904-01-01T00:00:00Z",
+          "LastWriteTime": "1903-12-31T22:59:00-01:01"
+        },
+        "Md5": "80276d74fce520609a211aa48f1f1998",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "MINMTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 942,
+          "Length": 56,
+          "Links": 1,
+          "LastWriteTimeUtc": "1904-01-01T00:00:01Z",
+          "LastWriteTime": "1903-12-31T22:59:01-01:01"
+        },
+        "Md5": "5efe99ac1bbef10122c81dbbdd08dd87",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "MINTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 943,
+          "Length": 47,
+          "Links": 1,
+          "LastWriteTimeUtc": "1904-01-01T00:00:01Z",
+          "LastWriteTime": "1903-12-31T22:59:01-01:01"
+        },
+        "Md5": "28172d93e6c406ea57ddb814928a6b3c",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "NOTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 944,
+          "Length": 47,
+          "Links": 1,
+          "LastWriteTimeUtc": "1904-01-01T00:00:00Z",
+          "LastWriteTime": "1903-12-31T22:59:00-01:01"
+        },
+        "Md5": "4130b8e198d74bc7c2cb5b2220dbffbf",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "Y1KBTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 945,
+          "Length": 50,
+          "Links": 1,
+          "LastWriteTimeUtc": "1904-01-01T00:00:00Z",
+          "LastWriteTime": "1903-12-31T22:59:00-01:01"
+        },
+        "Md5": "1ab2597ea6c9f12a129ed4dda77d0135",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "Y1KCTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 946,
+          "Length": 52,
+          "Links": 1,
+          "LastWriteTimeUtc": "1904-01-01T00:00:00Z",
+          "LastWriteTime": "1903-12-31T22:59:00-01:01"
+        },
+        "Md5": "c439ca8ef89bfa893e395201625536d0",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "Y1KMTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 947,
+          "Length": 56,
+          "Links": 1,
+          "LastWriteTimeUtc": "1999-12-31T23:59:59Z",
+          "LastWriteTime": "1999-12-31T23:59:59+00:00"
+        },
+        "Md5": "b022671d7601084466b004bcee2b1a1b",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "Y1KTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 948,
+          "Length": 47,
+          "Links": 1,
+          "LastWriteTimeUtc": "1999-12-31T23:59:59Z",
+          "LastWriteTime": "1999-12-31T23:59:59+00:00"
+        },
+        "Md5": "68cc06261d1646baaf571772d11d6314",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "Y2KBTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 949,
+          "Length": 50,
+          "Links": 1,
+          "LastWriteTimeUtc": "1904-01-01T00:00:00Z",
+          "LastWriteTime": "1903-12-31T22:59:00-01:01"
+        },
+        "Md5": "c040b56a0b14c898a55d8479bd0a81dd",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "Y2KCTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 950,
+          "Length": 52,
+          "Links": 1,
+          "LastWriteTimeUtc": "1904-01-01T00:00:00Z",
+          "LastWriteTime": "1903-12-31T22:59:00-01:01"
+        },
+        "Md5": "a9ba43b1d6049b5f4cf4b1fcf1a1b234",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "Y2KMTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 951,
+          "Length": 56,
+          "Links": 1,
+          "LastWriteTimeUtc": "2000-01-01T00:00:00Z",
+          "LastWriteTime": "2000-01-01T00:00:00+00:00"
+        },
+        "Md5": "d145624e7997c82ae1a8e5111bd58644",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      },
+      "Y2KTIME": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 952,
+          "Length": 47,
+          "Links": 1,
+          "LastWriteTimeUtc": "2000-01-01T00:00:00Z",
+          "LastWriteTime": "2000-01-01T00:00:00+00:00"
+        },
+        "Md5": "8d3bf5682c686913da49bf89ff1eeec5",
+        "XattrsWithMd5": {
+          "com.apple.FinderInfo": "c0aadafde35253f123ea6650e46d03e7"
+        }
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 2048,
+      "Inode": 56,
+      "Length": 2048,
+      "Links": 1,
+      "LastWriteTimeUtc": "2019-05-11T16:14:08Z",
+      "LastWriteTime": "2019-05-11T17:14:08+01:00"
+    }
+  }
+}

@@ -1,0 +1,683 @@
+{
+  "BIB": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 55,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 111261,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:55:45Z",
+      "LastWriteTime": "1991-07-15T04:55:45+01:00"
+    },
+    "Md5": "d45d5d7b6f908c18a8a76cca9744a970",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "BOOK1": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 376,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 768771,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:55:59Z",
+      "LastWriteTime": "1991-07-15T04:55:59+01:00"
+    },
+    "Md5": "0a0fdbaf0589c9713bde9120cbb20199",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "BOOK2": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 299,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 610856,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:56:10Z",
+      "LastWriteTime": "1991-07-15T04:56:10+01:00"
+    },
+    "Md5": "c529dcfed445b656db844b3b8133d0dd",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "CALGARY.TGZ": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 1595,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 3265536,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "2017-10-09T03:52:23Z",
+      "LastWriteTime": "2017-10-09T04:52:23+01:00"
+    },
+    "Md5": "f34b89795620dc64fcbba832960da6e9",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "DIR1": {
+    "Children": {
+      "DIR2": {
+        "Children": {
+          "DIR3": {
+            "Children": {
+              "DIR4": {
+                "Children": {
+                  "DIR5": {
+                    "Children": {
+                      "DIR6": {
+                        "Children": {
+                          "DIR7": {
+                            "Children": {},
+                            "Info": {
+                              "Attributes": "Directory",
+                              "Blocks": 1,
+                              "BlockSize": 2048,
+                              "GID": 10,
+                              "Inode": 0,
+                              "Length": 2048,
+                              "Links": 1,
+                              "UID": 1000,
+                              "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+                              "LastWriteTime": "2017-10-09T04:46:02+01:00"
+                            }
+                          },
+                          "TRANS.TBL": {
+                            "Info": {
+                              "Attributes": "None",
+                              "Blocks": 1,
+                              "BlockSize": 2048,
+                              "GID": 10,
+                              "Inode": 0,
+                              "Length": 216,
+                              "Links": 1,
+                              "UID": 1000,
+                              "LastWriteTimeUtc": "2017-10-09T04:10:49Z",
+                              "LastWriteTime": "2017-10-09T05:10:49+01:00"
+                            },
+                            "Md5": "496a4ceb320512ce7f8143566a597b7a"
+                          }
+                        },
+                        "Info": {
+                          "Attributes": "Directory",
+                          "Blocks": 1,
+                          "BlockSize": 2048,
+                          "GID": 10,
+                          "Inode": 0,
+                          "Length": 2048,
+                          "Links": 1,
+                          "UID": 1000,
+                          "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+                          "LastWriteTime": "2017-10-09T04:46:02+01:00"
+                        }
+                      },
+                      "TRANS.TBL": {
+                        "Info": {
+                          "Attributes": "None",
+                          "Blocks": 1,
+                          "BlockSize": 2048,
+                          "GID": 10,
+                          "Inode": 0,
+                          "Length": 216,
+                          "Links": 1,
+                          "UID": 1000,
+                          "LastWriteTimeUtc": "2017-10-09T04:10:49Z",
+                          "LastWriteTime": "2017-10-09T05:10:49+01:00"
+                        },
+                        "Md5": "1cc616264f804ed84898fbfb9e933dfa"
+                      }
+                    },
+                    "Info": {
+                      "Attributes": "Directory",
+                      "Blocks": 1,
+                      "BlockSize": 2048,
+                      "GID": 10,
+                      "Inode": 0,
+                      "Length": 2048,
+                      "Links": 1,
+                      "UID": 1000,
+                      "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+                      "LastWriteTime": "2017-10-09T04:46:02+01:00"
+                    }
+                  },
+                  "TRANS.TBL": {
+                    "Info": {
+                      "Attributes": "None",
+                      "Blocks": 1,
+                      "BlockSize": 2048,
+                      "GID": 10,
+                      "Inode": 0,
+                      "Length": 216,
+                      "Links": 1,
+                      "UID": 1000,
+                      "LastWriteTimeUtc": "2017-10-09T04:10:49Z",
+                      "LastWriteTime": "2017-10-09T05:10:49+01:00"
+                    },
+                    "Md5": "0aeb9a84088ce8293b4ce50f9603c328"
+                  }
+                },
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 2048,
+                  "GID": 10,
+                  "Inode": 0,
+                  "Length": 2048,
+                  "Links": 1,
+                  "UID": 1000,
+                  "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+                  "LastWriteTime": "2017-10-09T04:46:02+01:00"
+                }
+              },
+              "TRANS.TBL": {
+                "Info": {
+                  "Attributes": "None",
+                  "Blocks": 1,
+                  "BlockSize": 2048,
+                  "GID": 10,
+                  "Inode": 0,
+                  "Length": 216,
+                  "Links": 1,
+                  "UID": 1000,
+                  "LastWriteTimeUtc": "2017-10-09T04:10:49Z",
+                  "LastWriteTime": "2017-10-09T05:10:49+01:00"
+                },
+                "Md5": "e9d55fe36c196d4d1f203ddc3a063add"
+              }
+            },
+            "Info": {
+              "Attributes": "Directory",
+              "Blocks": 1,
+              "BlockSize": 2048,
+              "GID": 10,
+              "Inode": 0,
+              "Length": 2048,
+              "Links": 1,
+              "UID": 1000,
+              "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+              "LastWriteTime": "2017-10-09T04:46:02+01:00"
+            }
+          },
+          "TRANS.TBL": {
+            "Info": {
+              "Attributes": "None",
+              "Blocks": 1,
+              "BlockSize": 2048,
+              "GID": 10,
+              "Inode": 0,
+              "Length": 216,
+              "Links": 1,
+              "UID": 1000,
+              "LastWriteTimeUtc": "2017-10-09T04:10:49Z",
+              "LastWriteTime": "2017-10-09T05:10:49+01:00"
+            },
+            "Md5": "28dd530476dea9648f353ff486e59731"
+          }
+        },
+        "Info": {
+          "Attributes": "Directory",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "GID": 10,
+          "Inode": 0,
+          "Length": 2048,
+          "Links": 1,
+          "UID": 1000,
+          "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+          "LastWriteTime": "2017-10-09T04:46:02+01:00"
+        }
+      },
+      "TRANS.TBL": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "GID": 10,
+          "Inode": 0,
+          "Length": 216,
+          "Links": 1,
+          "UID": 1000,
+          "LastWriteTimeUtc": "2017-10-09T04:10:49Z",
+          "LastWriteTime": "2017-10-09T05:10:49+01:00"
+        },
+        "Md5": "d88271ebc565c22226295bcb82060902"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 2048,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+      "LastWriteTime": "2017-10-09T04:46:02+01:00"
+    }
+  },
+  "DISKCOPY.5": {
+    "Children": {},
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 2048,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1994-05-16T18:36:34Z",
+      "LastWriteTime": "1994-05-16T19:36:34+01:00"
+    }
+  },
+  "EL_VELOZ": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 55,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 111261,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "2017-10-09T03:47:19Z",
+      "LastWriteTime": "2017-10-09T04:47:19+01:00"
+    },
+    "Md5": "d45d5d7b6f908c18a8a76cca9744a970",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "FILE_WIT": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 46,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 93695,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "2017-10-09T03:40:47Z",
+      "LastWriteTime": "2017-10-09T04:40:47+01:00"
+    },
+    "Md5": "a95453458cb440a7320ebc6215af0fd0",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "GEO": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 50,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 102400,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:56:11Z",
+      "LastWriteTime": "1991-07-15T04:56:11+01:00"
+    },
+    "Md5": "23642c127bdf1c964fbfd5330fad35c0",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "HARDLNK": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 11,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 21504,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:56:17Z",
+      "LastWriteTime": "1991-07-15T04:56:17+01:00"
+    },
+    "Md5": "54772267d11d18d972f4b85386e7414c",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "NEWS": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 185,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 377109,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:56:16Z",
+      "LastWriteTime": "1991-07-15T04:56:16+01:00"
+    },
+    "Md5": "43a8e87a4af8e29a07dd67f21bc0598c",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "OBJ1": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 11,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 21504,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:56:17Z",
+      "LastWriteTime": "1991-07-15T04:56:17+01:00"
+    },
+    "Md5": "54772267d11d18d972f4b85386e7414c",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "OBJ2": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 121,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 246814,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:56:26Z",
+      "LastWriteTime": "1991-07-15T04:56:26+01:00"
+    },
+    "Md5": "58a94ec5245a7039ad9c1dafce6d4e12",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "PAPER1": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 26,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 53161,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:56:27Z",
+      "LastWriteTime": "1991-07-15T04:56:27+01:00"
+    },
+    "Md5": "2687bd7a2b6da940452d07a57778430c",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "PAPER2": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 41,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 82199,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:56:29Z",
+      "LastWriteTime": "1991-07-15T04:56:29+01:00"
+    },
+    "Md5": "1d46f1ed5c91c7aff89aacb27a9d4c45",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "PAPER3": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 23,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 46526,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:56:30Z",
+      "LastWriteTime": "1991-07-15T04:56:30+01:00"
+    },
+    "Md5": "6da289bac0a9b89b1f9c6ce7ff092049",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "PAPER4": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 7,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 13286,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:56:31Z",
+      "LastWriteTime": "1991-07-15T04:56:31+01:00"
+    },
+    "Md5": "daed0ca8a863978f5f3321eccb58676c",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "PAPER5": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 6,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 11954,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:56:31Z",
+      "LastWriteTime": "1991-07-15T04:56:31+01:00"
+    },
+    "Md5": "fc6dc510d8efb378f33426927c3bb79e",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "PAPER6": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 19,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 38105,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:56:35Z",
+      "LastWriteTime": "1991-07-15T04:56:35+01:00"
+    },
+    "Md5": "6496a0bafa5f9a7f305b09732fd478ce",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "PIC": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 251,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 513216,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:57:03Z",
+      "LastWriteTime": "1991-07-15T04:57:03+01:00"
+    },
+    "Md5": "29eca86237730fce52232612036284b9",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "PROGC": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 20,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 39611,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:57:04Z",
+      "LastWriteTime": "1991-07-15T04:57:04+01:00"
+    },
+    "Md5": "237810d59b006d7dc03ba4afa47342d9",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "PROGL": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 35,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 71646,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:57:06Z",
+      "LastWriteTime": "1991-07-15T04:57:06+01:00"
+    },
+    "Md5": "b9dc47bbc625276dd1c403fbc8efa171",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "PROGP": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 25,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 49379,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:57:08Z",
+      "LastWriteTime": "1991-07-15T04:57:08+01:00"
+    },
+    "Md5": "3aa2be79cd1a96e68476829e0f6f6813",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "TRANS": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 46,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 93695,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "1991-07-15T03:57:10Z",
+      "LastWriteTime": "1991-07-15T04:57:10+01:00"
+    },
+    "Md5": "a95453458cb440a7320ebc6215af0fd0",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "TRANS.TBL": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 4,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 6306,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "2017-10-09T04:10:49Z",
+      "LastWriteTime": "2017-10-09T05:10:49+01:00"
+    },
+    "Md5": "04a5d12dd733d2a29ba320600456ff10"
+  },
+  "_____000": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 41,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 82199,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "2017-10-09T03:48:33Z",
+      "LastWriteTime": "2017-10-09T04:48:33+01:00"
+    },
+    "Md5": "1d46f1ed5c91c7aff89aacb27a9d4c45",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "_____001": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 26,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 53161,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "2017-10-09T03:48:18Z",
+      "LastWriteTime": "2017-10-09T04:48:18+01:00"
+    },
+    "Md5": "2687bd7a2b6da940452d07a57778430c",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  },
+  "________": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 55,
+      "BlockSize": 2048,
+      "GID": 10,
+      "Inode": 0,
+      "Length": 111261,
+      "Links": 1,
+      "UID": 1000,
+      "LastWriteTimeUtc": "2017-10-09T03:47:54Z",
+      "LastWriteTime": "2017-10-09T04:47:54+01:00"
+    },
+    "Md5": "d45d5d7b6f908c18a8a76cca9744a970",
+    "XattrsWithMd5": {
+      "com.apple.FinderInfo": "5a1d0590ff3675e12b54b85894b86b20"
+    }
+  }
+}

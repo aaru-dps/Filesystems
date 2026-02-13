@@ -1,0 +1,568 @@
+{
+  "DiskCopy v5.5": {
+    "Children": {
+      "._DiskCopy v5.5": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 28,
+          "BlockSize": 2048,
+          "Inode": 3471,
+          "Length": 55836,
+          "Links": 1,
+          "LastWriteTimeUtc": "1994-01-03T20:04:40Z",
+          "LastWriteTime": "1994-01-03T20:04:40+00:00"
+        },
+        "Md5": "c983015e9cbb571bb00b130016783218"
+      },
+      "._Icon_": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 2,
+          "BlockSize": 2048,
+          "Inode": 3499,
+          "Length": 2786,
+          "Links": 1,
+          "LastWriteTimeUtc": "1994-04-17T16:46:51Z",
+          "LastWriteTime": "1994-04-17T17:46:51+01:00"
+        },
+        "Md5": "e99928d3d7a5ebbec69ecd2c71877faa"
+      },
+      "TRANS.TBL": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 3470,
+          "Length": 446,
+          "Links": 1,
+          "LastWriteTimeUtc": "2017-10-09T04:10:05Z",
+          "LastWriteTime": "2017-10-09T05:10:05+01:00"
+        },
+        "Md5": "c141c90d18a3ef279d939fe80b58ad23"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 2048,
+      "Inode": 45,
+      "Length": 2048,
+      "Links": 1,
+      "LastWriteTimeUtc": "1994-05-16T18:36:34Z",
+      "LastWriteTime": "1994-05-16T19:36:34+01:00"
+    }
+  },
+  "El veloz murci\u00E9lago hind\u00FA com\u00EDa cardillo y kiwi": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 55,
+      "BlockSize": 2048,
+      "Inode": 2371,
+      "Length": 111261,
+      "Links": 1,
+      "LastWriteTimeUtc": "2017-10-09T03:47:19Z",
+      "LastWriteTime": "2017-10-09T04:47:19+01:00"
+    },
+    "Md5": "d45d5d7b6f908c18a8a76cca9744a970"
+  },
+  "File with a long filename": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 46,
+      "BlockSize": 2048,
+      "Inode": 2426,
+      "Length": 93695,
+      "Links": 1,
+      "LastWriteTimeUtc": "2017-10-09T03:40:47Z",
+      "LastWriteTime": "2017-10-09T04:40:47+01:00"
+    },
+    "Md5": "a95453458cb440a7320ebc6215af0fd0"
+  },
+  "TRANS.TBL": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 4,
+      "BlockSize": 2048,
+      "Inode": 3338,
+      "Length": 6306,
+      "Links": 1,
+      "LastWriteTimeUtc": "2017-10-09T04:10:05Z",
+      "LastWriteTime": "2017-10-09T05:10:05+01:00"
+    },
+    "Md5": "04a5d12dd733d2a29ba320600456ff10"
+  },
+  "bib": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 55,
+      "BlockSize": 2048,
+      "Inode": 46,
+      "Length": 111261,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:55:45Z",
+      "LastWriteTime": "1991-07-15T04:55:45+01:00"
+    },
+    "Md5": "d45d5d7b6f908c18a8a76cca9744a970"
+  },
+  "book1": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 376,
+      "BlockSize": 2048,
+      "Inode": 101,
+      "Length": 768771,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:55:59Z",
+      "LastWriteTime": "1991-07-15T04:55:59+01:00"
+    },
+    "Md5": "0a0fdbaf0589c9713bde9120cbb20199"
+  },
+  "book2": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 299,
+      "BlockSize": 2048,
+      "Inode": 477,
+      "Length": 610856,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:56:10Z",
+      "LastWriteTime": "1991-07-15T04:56:10+01:00"
+    },
+    "Md5": "c529dcfed445b656db844b3b8133d0dd"
+  },
+  "calgary.tar.gz": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 1595,
+      "BlockSize": 2048,
+      "Inode": 776,
+      "Length": 3265536,
+      "Links": 1,
+      "LastWriteTimeUtc": "2017-10-09T03:52:23Z",
+      "LastWriteTime": "2017-10-09T04:52:23+01:00"
+    },
+    "Md5": "f34b89795620dc64fcbba832960da6e9"
+  },
+  "dir1": {
+    "Children": {
+      "TRANS.TBL": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 3464,
+          "Length": 216,
+          "Links": 1,
+          "LastWriteTimeUtc": "2017-10-09T04:10:05Z",
+          "LastWriteTime": "2017-10-09T05:10:05+01:00"
+        },
+        "Md5": "d88271ebc565c22226295bcb82060902"
+      },
+      "dir2": {
+        "Children": {
+          "TRANS.TBL": {
+            "Info": {
+              "Attributes": "None",
+              "Blocks": 1,
+              "BlockSize": 2048,
+              "Inode": 3465,
+              "Length": 216,
+              "Links": 1,
+              "LastWriteTimeUtc": "2017-10-09T04:10:05Z",
+              "LastWriteTime": "2017-10-09T05:10:05+01:00"
+            },
+            "Md5": "28dd530476dea9648f353ff486e59731"
+          },
+          "dir3": {
+            "Children": {
+              "TRANS.TBL": {
+                "Info": {
+                  "Attributes": "None",
+                  "Blocks": 1,
+                  "BlockSize": 2048,
+                  "Inode": 3466,
+                  "Length": 216,
+                  "Links": 1,
+                  "LastWriteTimeUtc": "2017-10-09T04:10:05Z",
+                  "LastWriteTime": "2017-10-09T05:10:05+01:00"
+                },
+                "Md5": "e9d55fe36c196d4d1f203ddc3a063add"
+              },
+              "dir4": {
+                "Children": {
+                  "TRANS.TBL": {
+                    "Info": {
+                      "Attributes": "None",
+                      "Blocks": 1,
+                      "BlockSize": 2048,
+                      "Inode": 3467,
+                      "Length": 216,
+                      "Links": 1,
+                      "LastWriteTimeUtc": "2017-10-09T04:10:05Z",
+                      "LastWriteTime": "2017-10-09T05:10:05+01:00"
+                    },
+                    "Md5": "0aeb9a84088ce8293b4ce50f9603c328"
+                  },
+                  "dir5": {
+                    "Children": {
+                      "TRANS.TBL": {
+                        "Info": {
+                          "Attributes": "None",
+                          "Blocks": 1,
+                          "BlockSize": 2048,
+                          "Inode": 3468,
+                          "Length": 216,
+                          "Links": 1,
+                          "LastWriteTimeUtc": "2017-10-09T04:10:05Z",
+                          "LastWriteTime": "2017-10-09T05:10:05+01:00"
+                        },
+                        "Md5": "1cc616264f804ed84898fbfb9e933dfa"
+                      },
+                      "dir6": {
+                        "Children": {
+                          "TRANS.TBL": {
+                            "Info": {
+                              "Attributes": "None",
+                              "Blocks": 1,
+                              "BlockSize": 2048,
+                              "Inode": 3469,
+                              "Length": 216,
+                              "Links": 1,
+                              "LastWriteTimeUtc": "2017-10-09T04:10:05Z",
+                              "LastWriteTime": "2017-10-09T05:10:05+01:00"
+                            },
+                            "Md5": "496a4ceb320512ce7f8143566a597b7a"
+                          },
+                          "dir7": {
+                            "Children": {},
+                            "Info": {
+                              "Attributes": "Directory",
+                              "Blocks": 1,
+                              "BlockSize": 2048,
+                              "Inode": 44,
+                              "Length": 2048,
+                              "Links": 1,
+                              "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+                              "LastWriteTime": "2017-10-09T04:46:02+01:00"
+                            }
+                          }
+                        },
+                        "Info": {
+                          "Attributes": "Directory",
+                          "Blocks": 1,
+                          "BlockSize": 2048,
+                          "Inode": 43,
+                          "Length": 2048,
+                          "Links": 1,
+                          "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+                          "LastWriteTime": "2017-10-09T04:46:02+01:00"
+                        }
+                      }
+                    },
+                    "Info": {
+                      "Attributes": "Directory",
+                      "Blocks": 1,
+                      "BlockSize": 2048,
+                      "Inode": 42,
+                      "Length": 2048,
+                      "Links": 1,
+                      "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+                      "LastWriteTime": "2017-10-09T04:46:02+01:00"
+                    }
+                  }
+                },
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 2048,
+                  "Inode": 41,
+                  "Length": 2048,
+                  "Links": 1,
+                  "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+                  "LastWriteTime": "2017-10-09T04:46:02+01:00"
+                }
+              }
+            },
+            "Info": {
+              "Attributes": "Directory",
+              "Blocks": 1,
+              "BlockSize": 2048,
+              "Inode": 40,
+              "Length": 2048,
+              "Links": 1,
+              "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+              "LastWriteTime": "2017-10-09T04:46:02+01:00"
+            }
+          }
+        },
+        "Info": {
+          "Attributes": "Directory",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 39,
+          "Length": 2048,
+          "Links": 1,
+          "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+          "LastWriteTime": "2017-10-09T04:46:02+01:00"
+        }
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 2048,
+      "Inode": 38,
+      "Length": 2048,
+      "Links": 1,
+      "LastWriteTimeUtc": "2017-10-09T03:46:02Z",
+      "LastWriteTime": "2017-10-09T04:46:02+01:00"
+    }
+  },
+  "geo": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 50,
+      "BlockSize": 2048,
+      "Inode": 2472,
+      "Length": 102400,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:56:11Z",
+      "LastWriteTime": "1991-07-15T04:56:11+01:00"
+    },
+    "Md5": "23642c127bdf1c964fbfd5330fad35c0"
+  },
+  "hardlnk": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 11,
+      "BlockSize": 2048,
+      "Inode": 2522,
+      "Length": 21504,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:56:17Z",
+      "LastWriteTime": "1991-07-15T04:56:17+01:00"
+    },
+    "Md5": "54772267d11d18d972f4b85386e7414c"
+  },
+  "news": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 185,
+      "BlockSize": 2048,
+      "Inode": 2533,
+      "Length": 377109,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:56:16Z",
+      "LastWriteTime": "1991-07-15T04:56:16+01:00"
+    },
+    "Md5": "43a8e87a4af8e29a07dd67f21bc0598c"
+  },
+  "obj1": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 11,
+      "BlockSize": 2048,
+      "Inode": 2522,
+      "Length": 21504,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:56:17Z",
+      "LastWriteTime": "1991-07-15T04:56:17+01:00"
+    },
+    "Md5": "54772267d11d18d972f4b85386e7414c"
+  },
+  "obj2": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 121,
+      "BlockSize": 2048,
+      "Inode": 2718,
+      "Length": 246814,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:56:26Z",
+      "LastWriteTime": "1991-07-15T04:56:26+01:00"
+    },
+    "Md5": "58a94ec5245a7039ad9c1dafce6d4e12"
+  },
+  "paper1": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 26,
+      "BlockSize": 2048,
+      "Inode": 2839,
+      "Length": 53161,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:56:27Z",
+      "LastWriteTime": "1991-07-15T04:56:27+01:00"
+    },
+    "Md5": "2687bd7a2b6da940452d07a57778430c"
+  },
+  "paper2": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 41,
+      "BlockSize": 2048,
+      "Inode": 2865,
+      "Length": 82199,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:56:29Z",
+      "LastWriteTime": "1991-07-15T04:56:29+01:00"
+    },
+    "Md5": "1d46f1ed5c91c7aff89aacb27a9d4c45"
+  },
+  "paper3": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 23,
+      "BlockSize": 2048,
+      "Inode": 2906,
+      "Length": 46526,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:56:30Z",
+      "LastWriteTime": "1991-07-15T04:56:30+01:00"
+    },
+    "Md5": "6da289bac0a9b89b1f9c6ce7ff092049"
+  },
+  "paper4": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 7,
+      "BlockSize": 2048,
+      "Inode": 2929,
+      "Length": 13286,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:56:31Z",
+      "LastWriteTime": "1991-07-15T04:56:31+01:00"
+    },
+    "Md5": "daed0ca8a863978f5f3321eccb58676c"
+  },
+  "paper5": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 6,
+      "BlockSize": 2048,
+      "Inode": 2936,
+      "Length": 11954,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:56:31Z",
+      "LastWriteTime": "1991-07-15T04:56:31+01:00"
+    },
+    "Md5": "fc6dc510d8efb378f33426927c3bb79e"
+  },
+  "paper6": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 19,
+      "BlockSize": 2048,
+      "Inode": 2942,
+      "Length": 38105,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:56:35Z",
+      "LastWriteTime": "1991-07-15T04:56:35+01:00"
+    },
+    "Md5": "6496a0bafa5f9a7f305b09732fd478ce"
+  },
+  "pic": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 251,
+      "BlockSize": 2048,
+      "Inode": 2961,
+      "Length": 513216,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:57:03Z",
+      "LastWriteTime": "1991-07-15T04:57:03+01:00"
+    },
+    "Md5": "29eca86237730fce52232612036284b9"
+  },
+  "progc": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 20,
+      "BlockSize": 2048,
+      "Inode": 3212,
+      "Length": 39611,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:57:04Z",
+      "LastWriteTime": "1991-07-15T04:57:04+01:00"
+    },
+    "Md5": "237810d59b006d7dc03ba4afa47342d9"
+  },
+  "progl": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 35,
+      "BlockSize": 2048,
+      "Inode": 3232,
+      "Length": 71646,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:57:06Z",
+      "LastWriteTime": "1991-07-15T04:57:06+01:00"
+    },
+    "Md5": "b9dc47bbc625276dd1c403fbc8efa171"
+  },
+  "progp": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 25,
+      "BlockSize": 2048,
+      "Inode": 3267,
+      "Length": 49379,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:57:08Z",
+      "LastWriteTime": "1991-07-15T04:57:08+01:00"
+    },
+    "Md5": "3aa2be79cd1a96e68476829e0f6f6813"
+  },
+  "trans": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 46,
+      "BlockSize": 2048,
+      "Inode": 3292,
+      "Length": 93695,
+      "Links": 1,
+      "LastWriteTimeUtc": "1991-07-15T03:57:10Z",
+      "LastWriteTime": "1991-07-15T04:57:10+01:00"
+    },
+    "Md5": "a95453458cb440a7320ebc6215af0fd0"
+  },
+  "\u05DB\u05DA \u05D4\u05EA\u05E8\u05E1\u05E7 \u05E0\u05E4\u05E5 \u05E2\u05DC \u05D2\u05D5\u05D6\u05DC \u05E7\u05D8\u05DF, \u05E9\u05D3\u05D7\u05E3 \u05D0\u05EA \u05E6\u05D1\u05D9 \u05DC\u05DE\u05D9\u05DD": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 26,
+      "BlockSize": 2048,
+      "Inode": 3383,
+      "Length": 53161,
+      "Links": 1,
+      "LastWriteTimeUtc": "2017-10-09T03:48:18Z",
+      "LastWriteTime": "2017-10-09T04:48:18+01:00"
+    },
+    "Md5": "2687bd7a2b6da940452d07a57778430c"
+  },
+  "\u0635\u0650\u0641 \u062E\u064E\u0644\u0642\u064E \u062E\u064E\u0648\u062F\u0650 \u0643\u064E\u0645\u0650\u062B\u0644\u0650 \u0627\u0644\u0634\u064E\u0645\u0633\u0650 \u0625\u0650\u0630 \u0628\u064E\u0632\u064E\u063A\u064E\u062A \u2014 \u064A\u064E\u062D\u0638\u0649 \u0627\u0644\u0636\u064E\u062C\u064A\u0639\u064F \u0628\u0650\u0647": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 55,
+      "BlockSize": 2048,
+      "Inode": 3409,
+      "Length": 111261,
+      "Links": 1,
+      "LastWriteTimeUtc": "2017-10-09T03:47:54Z",
+      "LastWriteTime": "2017-10-09T04:47:54+01:00"
+    },
+    "Md5": "d45d5d7b6f908c18a8a76cca9744a970"
+  },
+  "\u3044\u308D\u306F\u306B\u307B\u3078\u3068 \u3061\u308A\u306C\u308B\u3092 \u308F\u304B\u3088\u305F\u308C\u305D \u3064\u306D\u306A\u3089\u3080 \u3046\u3090\u306E\u304A\u304F\u3084\u307E \u3051\u3075\u3053\u3048\u3066 \u3042\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000": {
+    "Info": {
+      "Attributes": "None",
+      "Blocks": 41,
+      "BlockSize": 2048,
+      "Inode": 3342,
+      "Length": 82199,
+      "Links": 1,
+      "LastWriteTimeUtc": "2017-10-09T03:48:33Z",
+      "LastWriteTime": "2017-10-09T04:48:33+01:00"
+    },
+    "Md5": "1d46f1ed5c91c7aff89aacb27a9d4c45"
+  }
+}
