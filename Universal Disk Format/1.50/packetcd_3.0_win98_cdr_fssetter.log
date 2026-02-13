@@ -1,0 +1,208 @@
+Aaru Filesystem Tester (Setter) 4.5.99.2020
+Copyright (C) 2011-2021 Natalia Portillo
+==============================================
+Log started on Thu Nov  6 21:31:12 2025
+
+
+Parameters: E:\X86\OW18\FSSETTER.EXE --log d:\
+Running in Windows (ia32)
+
+OS information:
+	Running under Windows 98 version 4.10.67766446 A s.
+Volume information:
+	Path: d:\
+	Filesystem: C2UDFFS
+	Volume name: PacketCD
+	Maximum component size: 127
+	Flags:
+		Volume preserves file name case.
+		Volume stores filenames as Unicode.
+		Volume supports LFN API.
+	Bytes per sector: 2048
+	Sectors per cluster: 8 (16384 bytes)
+	Volume size: 731693056 bytes
+	Volume free: 731070464 bytes
+Creating attributes files.
+	File with no attributes: name = "________", rc = 0, wRc = 0, cRc = 0
+	Temporary file: name = "_______T", rc = 0, wRc = 0, cRc = 0
+	File with system attribute: name = "______S_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with system attribute: name = "______ST", rc = 0, wRc = 0, cRc = 0
+	File with read-only attribute: name = "_____R__", rc = 0, wRc = 0, cRc = 0
+	Temporary file with read-only attribute: name = "_____R_T", rc = 0, wRc = 0, cRc = 0
+	File with system and read-only attributes: name = "_____RS_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with system and read-only attributes: name = "_____RST", rc = 0, wRc = 0, cRc = 0
+	File is available offline: name = "____O___", rc = 0, wRc = 0, cRc = 0
+	Temporary file that is available offline: name = "____O__T", rc = 0, wRc = 0, cRc = 0
+	File with system attribute that is available offline: name = "____O_S_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with system attribute that is available offline: name = "____O_ST", rc = 0, wRc = 0, cRc = 0
+	File with read-only attribute that is available offline: name = "____OR__", rc = 0, wRc = 0, cRc = 0
+	Temporary file with read-only attribute that is available offline: name = "____OR_T", rc = 0, wRc = 0, cRc = 0
+	File with system and read-only attribute that is available offline: name = "____ORS_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with system and read-only attribute that is available offline: name = "____ORST", rc = 0, wRc = 0, cRc = 0
+	File with hidden attribute: name = "___H____", rc = 0, wRc = 0, cRc = 0
+	Temporary file with hidden attribute: name = "___H___T", rc = 0, wRc = 0, cRc = 0
+	File with system and hidden attributes: name = "___H__S_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with system and hidden attributes: name = "___H__ST", rc = 0, wRc = 0, cRc = 0
+	File with system and read-only attributes: name = "___H_R__", rc = 0, wRc = 0, cRc = 0
+	Temporary file with system and read-only attributes: name = "___H_R_T", rc = 0, wRc = 0, cRc = 0
+	File with hidden, system and read-only attributes: name = "___H_RS_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with hidden, system and read-only attributes: name = "___H_RST", rc = 0, wRc = 0, cRc = 0
+	File with hidden attribute that is available offline: name = "___HO___", rc = 0, wRc = 0, cRc = 0
+	Temporary file with hidden attribute that is available offline: name = "___HO__T", rc = 0, wRc = 0, cRc = 0
+	File with hidden and system attributes that is available offline: name = "___HO_S_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with hidden and system attribute that is available offline: name = "___HO_ST", rc = 0, wRc = 0, cRc = 0
+	File with hidden and read-only attributes that is available offline: name = "___HOR__", rc = 0, wRc = 0, cRc = 0
+	Temporary file with hidden and read-only attributes that is available offline: name = "___HOR_T", rc = 0, wRc = 0, cRc = 0
+	File with hidden, read-only and system attributes that is available offline: name = "___HORS_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with hidden, read-only and system attributes that is available offline: name = "___HORST", rc = 0, wRc = 0, cRc = 0
+	File with archived attribute: name = "__A_____", rc = 0, wRc = 0, cRc = 0
+	Temporary file with archived attribute: name = "__A____T", rc = 0, wRc = 0, cRc = 0
+	File with system and archived attributes: name = "__A___S_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with archived and system attributes: name = "__A___ST", rc = 0, wRc = 0, cRc = 0
+	File with read-only and archived attributes: name = "__A__R__", rc = 0, wRc = 0, cRc = 0
+	Temporary file with archive and read-only attributes: name = "__A__R_T", rc = 0, wRc = 0, cRc = 0
+	File with read-only and archived attributes: name = "__A__RS_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with read-only and archived attributes: name = "__A__RST", rc = 0, wRc = 0, cRc = 0
+	File with archived attribute is available offline: name = "__A_O___", rc = 0, wRc = 0, cRc = 0
+	Temporary file with archive attribute that is available offline: name = "__A_O__T", rc = 0, wRc = 0, cRc = 0
+	File with system and archive attributes that is available offline: name = "__A_O_S_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with system and archive attributes that is available offline: name = "__A_O_ST", rc = 0, wRc = 0, cRc = 0
+	File with read-only and archive attributes that is available offline: name = "__A_OR__", rc = 0, wRc = 0, cRc = 0
+	Temporary file with read-only and archive attributes that is available offline: name = "__A_OR_T", rc = 0, wRc = 0, cRc = 0
+	File with system, read-only and archive attributes that is available offline: name = "__A_ORS_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with system, read-only and archive attributes that is available offline: name = "__A_ORST", rc = 0, wRc = 0, cRc = 0
+	File with hidden and archived attributes: name = "__AH____", rc = 0, wRc = 0, cRc = 0
+	Temporary file with archive and hidden attributes: name = "__AH___T", rc = 0, wRc = 0, cRc = 0
+	File with system, archive and hidden attributes: name = "__AH__S_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with system, archive and hidden attributes: name = "__AH__ST", rc = 0, wRc = 0, cRc = 0
+	File with read-only, hidden and archive attributes: name = "__AH_R__", rc = 0, wRc = 0, cRc = 0
+	Temporary file with read-only, hidden and archive attributes: name = "__AH_R_T", rc = 0, wRc = 0, cRc = 0
+	File with system, read-only, hidden and archive attributes: name = "__AH_RS_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with read-only, hidden and archive attributes: name = "__AH_RST", rc = 0, wRc = 0, cRc = 0
+	File with hidden and archived attributes that is available offline: name = "__AHO___", rc = 0, wRc = 0, cRc = 0
+	Temporary file with archive and hidden attributes that is available offline: name = "__AHO__T", rc = 0, wRc = 0, cRc = 0
+	File with system, archive and hidden attributes that is available offline: name = "__AHO_S_", rc = 0, wRc = 0, cRc = 0
+	Temporary file with system, archive and hidden attributes that is available offline: name = "__AHO_ST", rc = 0, wRc = 0, cRc = 0
+	File with read-only, hidden and archive attributes that is available offline: name = "__AHOR__", rc = 0, wRc = 0, cRc = 0
+	Temporary file with read-only, hidden and archive attributes that is available offline: name = "__AHOR_T", rc = 0, wRc = 0, cRc = 0
+	File with system, read-only, hidden and archive attributes that is available offline: name = "__AHORS_", rc = 0, wRc = 0, cRc = 0
+	File with all attributes: name = "__AHORST", rc = 0, wRc = 0, cRc = 0
+	File is compressed: name = "COMPRESS", rc = 87, wRc = 0, cRc = 0
+Error 127 finding NtSetEaFile.
+Creating alternate data streams.
+	File with tiny alternate data stream: name = "TINY:ADS", rc = 2, wRc = 0, cRc = 0
+	File with small alternate data stream: name = "SMALL:ADS", rc = 2, wRc = 0, cRc = 0
+	File with medium alternate data stream: name = "MEDIUM:ADS", rc = 2, wRc = 0, cRc = 0
+	File with big alternate data stream: name = "BIG:ADS", rc = 2, wRc = 0, cRc = 0
+	File with tiny alternate data stream: name = "MULTIPLE:ADS", rc = 2, wRc = 0, cRc = 0
+	File with small alternate data stream: name = "MULTIPLE:ADS", rc = 2, wRc = 0, cRc = 0
+	File with medium alternate data stream: name = "MULTIPLE:ADS", rc = 2, wRc = 0, cRc = 0
+	File with medium alternate data stream: name = "MULTIPLE:ADS", rc = 2, wRc = 0, cRc = 0
+Creating files with different filenames.
+	File name = "FILNAM", rc = 0, wRc = 0, cRc = 0
+	File name = "FILNAM.EXT", rc = 0, wRc = 0, cRc = 0
+	File name = "FILENAME", rc = 0, wRc = 0, cRc = 0
+	File name = "FILENAME.EXT", rc = 0, wRc = 0, cRc = 0
+	File name = "UPPCAS", rc = 0, wRc = 0, cRc = 0
+	File name = "lowcas", rc = 0, wRc = 0, cRc = 0
+	File name = "UPPER.low", rc = 0, wRc = 0, cRc = 0
+	File name = "lower.UP", rc = 0, wRc = 0, cRc = 0
+	File name = "CamUpr", rc = 0, wRc = 0, cRc = 0
+	File name = "Dromed", rc = 0, wRc = 0, cRc = 0
+	File name = "droMed", rc = 0, wRc = 0, cRc = 0
+	File name = "FIL NA", rc = 0, wRc = 0, cRc = 0
+	File name = " FILNA", rc = 0, wRc = 0, cRc = 0
+	File name = "FILNA ", rc = 0, wRc = 0, cRc = 0
+	File name = "FILE. XT", rc = 0, wRc = 0, cRc = 0
+	File name = "FILE .EXT", rc = 0, wRc = 0, cRc = 0
+	File name = "FILE . XT", rc = 0, wRc = 0, cRc = 0
+	File name = "Fourteen_Chars", rc = 0, wRc = 0, cRc = 0
+	File name = "FifteenCharacts", rc = 0, wRc = 0, cRc = 0
+	File name = "Sixteen_Characts", rc = 0, wRc = 0, cRc = 0
+	File name = "Twenty_One_Characters", rc = 0, wRc = 0, cRc = 0
+	File name = "This name has thirty charactrs", rc = 0, wRc = 0, cRc = 0
+	File name = "This name has thirty one chactrs", rc = 0, wRc = 0, cRc = 0
+	File name = "This name has thirty two chacters", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has fourty four characterrs", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has sixty three characters like a lazy dromedaire", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has sixty four characters like a redy lazy fox dog", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has one hundred twenty eight characters and once upon a time in a place which name you must buy the book yetnotget", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has two hundred thirty six characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read its", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fourty eight characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book yout", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fifty three characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you get", rc = 206, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fifty four characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you mustd", rc = 206, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fifty five characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you mustdo", rc = 206, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fifty six characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you must get", rc = 206, wRc = 0, cRc = 0
+	File name = "?NM?E?", rc = 2, wRc = 0, cRc = 0
+	File name = "N!A!M!", rc = 0, wRc = 0, cRc = 0
+	File name = "NA/ME", rc = 3, wRc = 0, cRc = 0
+	File name = "NA\ME", rc = 3, wRc = 0, cRc = 0
+	File name = "'QUOT'", rc = 0, wRc = 0, cRc = 0
+	File name = ""QUOT"", rc = 2, wRc = 0, cRc = 0
+	File name = "NA>ME>", rc = 161, wRc = 0, cRc = 0
+	File name = "N<AME<", rc = 161, wRc = 0, cRc = 0
+	File name = "NA%%ME", rc = 0, wRc = 0, cRc = 0
+	File name = "N*A*ME", rc = 2, wRc = 0, cRc = 0
+	File name = "NA:ME", rc = 2, wRc = 0, cRc = 0
+	File name = "N|AME|", rc = 161, wRc = 0, cRc = 0
+	File name = "N.A.ME", rc = 0, wRc = 0, cRc = 0
+	File name = ".NAME", rc = 0, wRc = 0, cRc = 0
+	File name = "NAME.", rc = 0, wRc = 0, cRc = 0
+	File name = "..NAME", rc = 0, wRc = 0, cRc = 0
+	File name = "NAME..", rc = 0, wRc = 0, cRc = 0
+	File name = "N$ME", rc = 0, wRc = 0, cRc = 0
+	File name = "N@ME@", rc = 0, wRc = 0, cRc = 0
+	File name = "NAM#", rc = 0, wRc = 0, cRc = 0
+	File name = "NA-ME", rc = 0, wRc = 0, cRc = 0
+	File name = "_NAME_", rc = 0, wRc = 0, cRc = 0
+Creating timestamped files.
+	File name = "MAXCTIME", rc = 0, wRc = 0, cRc = 0, tRc = 13
+	File name = "MAXATIME", rc = 0, wRc = 0, cRc = 0, tRc = 13
+	File name = "MAXMTIME", rc = 0, wRc = 0, cRc = 0, tRc = 13
+	File name = "MINCTIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "MINATIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "MINMTIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "Y1KCTIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "Y1KATIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "Y1KMTIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "Y2KCTIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "Y2KATIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "Y2KMTIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+Error 127 finding CreateSymbolicLinkA.
+Error 127 finding CreateHardLinkA.
+Creating deepest directory tree.
+	Created 29 levels of directory hierarchy
+	File name = "HALFCLST", size = 8192, rc = 0, wRc = 0, cRc = 0
+	File name = "QUARCLST", size = 4096, rc = 0, wRc = 0, cRc = 0
+	File name = "TWOCLST", size = 32768, rc = 0, wRc = 0, cRc = 0
+	File name = "TRQTCLST", size = 12288, rc = 0, wRc = 0, cRc = 0
+	File name = "TWTQCLST", size = 45056, rc = 0, wRc = 0, cRc = 0
+	File name = "TWO1", size = 32768, rc = 0, wRc = 0, cRc = 0
+	File name = "TWO2", size = 32768, rc = 0, wRc = 0, cRc = 0
+	Deleting "TWO2".
+	File name = "TWO3", size = 32768, rc = 0, wRc = 0, cRc = 0
+	Deleting "TWO1".
+	Deleting "TWO3".
+	File name = "FRAGTHRQ", size = 12288, rc = 0, wRc = 0, cRc = 0
+	File name = "FRAGSIXQ", size = 45056, rc = 0, wRc = 0, cRc = 0
+Creating lots of files.
+	Created 1000 files
+Creating and deleting files.
+Volume information:
+	Path: d:\
+	Filesystem: C2UDFFS
+	Volume name: PacketCD
+	Maximum component size: 127
+	Flags:
+		Volume preserves file name case.
+		Volume stores filenames as Unicode.
+		Volume supports LFN API.
+	Bytes per sector: 2048
+	Sectors per cluster: 8 (16384 bytes)
+	Volume size: 731693056 bytes
+	Volume free: 727400448 bytes
+==============================================
+Log finished on Thu Nov  6 21:31:23 2025
+
+==============================================
+
