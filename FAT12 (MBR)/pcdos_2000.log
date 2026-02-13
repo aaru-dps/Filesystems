@@ -1,0 +1,129 @@
+Aaru Filesystem Tester (Setter) 4.5.99.2020
+Copyright (C) 2011-2021 Natalia Portillo
+==============================================
+Log started on Fri May  7 05:38:51 2021
+
+
+Parameters: C:\FSSETTER.EXE --log d:
+Running in DOS (x86)
+
+OS information:
+	Running under PC-DOS 7.0
+	Bytes per sector: 512
+	Sectors per cluster: 8 (4096 bytes)
+	Clusters: 2883 (11808768 bytes)
+	Free clusters: 2883 (11808768 bytes)
+Creating attributes files.
+	File with no attributes: name = "NONE", rc = 0, wRc = 0, cRc = 0
+	File with archived attribute: name = "ARCHIVE", rc = 0, wRc = 0, cRc = 0
+	File with system attribute: name = "SYSTEM", rc = 0, wRc = 0, cRc = 0
+	File with hidden attribute: name = "HIDDEN", rc = 0, wRc = 0, cRc = 0
+	File with read-only attribute: name = "READONLY", rc = 0, wRc = 0, cRc = 0
+	File with hidden, read-only attributes: name = "HIDDREAD", rc = 0, wRc = 0, cRc = 0
+	File with system, read-only attributes: name = "SYSTREAD", rc = 0, wRc = 0, cRc = 0
+	File with system, hidden attributes: name = "SYSTHIDD", rc = 0, wRc = 0, cRc = 0
+	File with system, read-only, hidden attributes: name = "SYSRDYHD", rc = 0, wRc = 0, cRc = 0
+	File with archived, read-only attributes: name = "ARCHREAD", rc = 0, wRc = 0, cRc = 0
+	File with archived, hidden attributes: name = "ARCHHIDD", rc = 0, wRc = 0, cRc = 0
+	File with archived, hidden, read-only attributes: name = "ARCHDRDY", rc = 0, wRc = 0, cRc = 0
+	File with archived, system attributes: name = "ARCHSYST", rc = 0, wRc = 0, cRc = 0
+	File with archived, system, read-only attributes: name = "ARSYSRDY", rc = 0, wRc = 0, cRc = 0
+	File with archived, system, hidden attributes: name = "ARCSYSHD", rc = 0, wRc = 0, cRc = 0
+	File with all (archived, system, hidden, read-only) attributes: name = "ARSYHDRD", rc = 0, wRc = 0, cRc = 0
+Creating files with different filenames.
+	File name = "FILNAM", rc = 0, wRc = 0, cRc = 0
+	File name = "FILNAM.EXT", rc = 0, wRc = 0, cRc = 0
+	File name = "FILENAME", rc = 0, wRc = 0, cRc = 0
+	File name = "FILENAME.EXT", rc = 0, wRc = 0, cRc = 0
+	File name = "UPPCAS", rc = 0, wRc = 0, cRc = 0
+	File name = "lowcas", rc = 0, wRc = 0, cRc = 0
+	File name = "UPPER.low", rc = 0, wRc = 0, cRc = 0
+	File name = "lower.UP", rc = 0, wRc = 0, cRc = 0
+	File name = "CamUpr", rc = 0, wRc = 0, cRc = 0
+	File name = "Dromed", rc = 0, wRc = 0, cRc = 0
+	File name = "droMed", rc = 80, wRc = 0, cRc = 0
+	File name = "FIL NA", rc = 0, wRc = 0, cRc = 0
+	File name = " FILNA", rc = 2, wRc = 0, cRc = 0
+	File name = "FILNA ", rc = 0, wRc = 0, cRc = 0
+	File name = "FILE. XT", rc = 0, wRc = 0, cRc = 0
+	File name = "FILE .EXT", rc = 0, wRc = 0, cRc = 0
+	File name = "FILE . XT", rc = 80, wRc = 0, cRc = 0
+	File name = "Fourteen_Chars", rc = 0, wRc = 0, cRc = 0
+	File name = "FifteenCharacts", rc = 0, wRc = 0, cRc = 0
+	File name = "Sixteen_Characts", rc = 0, wRc = 0, cRc = 0
+	File name = "Twenty_One_Characters", rc = 0, wRc = 0, cRc = 0
+	File name = "This name has thirty charactrs", rc = 0, wRc = 0, cRc = 0
+	File name = "This name has thirty one chactrs", rc = 80, wRc = 0, cRc = 0
+	File name = "This name has thirty two chacters", rc = 80, wRc = 0, cRc = 0
+	File name = "This filename has fourty four characterrs", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has sixty three characters like a lazy dromedaire", rc = 80, wRc = 0, cRc = 0
+	File name = "This filename has sixty four characters like a redy lazy fox dog", rc = 80, wRc = 0, cRc = 0
+	File name = "This filename has one hundred twenty eight characters and once upon a time in a place which name you must buy the book yetnotget", rc = 80, wRc = 0, cRc = 0
+	File name = "This filename has two hundred thirty six characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read its", rc = 80, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fourty eight characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book yout", rc = 80, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fifty three characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you get", rc = 80, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fifty four characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you mustd", rc = 80, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fifty five characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you mustdo", rc = 80, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fifty six characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you must get", rc = 80, wRc = 0, cRc = 0
+	File name = "?NM?E?", rc = 2, wRc = 0, cRc = 0
+	File name = "N!A!M!", rc = 0, wRc = 0, cRc = 0
+	File name = "NA/ME", rc = 3, wRc = 0, cRc = 0
+	File name = "NA\ME", rc = 3, wRc = 0, cRc = 0
+	File name = "'QUOT'", rc = 0, wRc = 0, cRc = 0
+	File name = ""QUOT"", rc = 2, wRc = 0, cRc = 0
+	File name = "NA>ME>", rc = 2, wRc = 0, cRc = 0
+	File name = "N<AME<", rc = 2, wRc = 0, cRc = 0
+	File name = "NA%%ME", rc = 0, wRc = 0, cRc = 0
+	File name = "N*A*ME", rc = 2, wRc = 0, cRc = 0
+	File name = "NA:ME", rc = 2, wRc = 0, cRc = 0
+	File name = "N|AME|", rc = 2, wRc = 0, cRc = 0
+	File name = "N.A.ME", rc = 2, wRc = 0, cRc = 0
+	File name = ".NAME", rc = 2, wRc = 0, cRc = 0
+	File name = "NAME.", rc = 0, wRc = 0, cRc = 0
+	File name = "..NAME", rc = 2, wRc = 0, cRc = 0
+	File name = "NAME..", rc = 2, wRc = 0, cRc = 0
+	File name = "N$ME", rc = 0, wRc = 0, cRc = 0
+	File name = "N@ME@", rc = 0, wRc = 0, cRc = 0
+	File name = "NAM#", rc = 0, wRc = 0, cRc = 0
+	File name = "NA-ME", rc = 0, wRc = 0, cRc = 0
+	File name = "_NAME_", rc = 0, wRc = 0, cRc = 0
+Creating timestamped files.
+	File name = "MAXCTIME", rc = 0, wRc = 0, cRc = 0, tRc = 1
+	File name = "MINCTIME", rc = 0, wRc = 0, cRc = 0, tRc = 1
+	File name = "Y19CTIME", rc = 0, wRc = 0, cRc = 0, tRc = 1
+	File name = "Y2KCTIME", rc = 0, wRc = 0, cRc = 0, tRc = 1
+	File name = "MAXWTIME", rc = 0, wRc = 0, cRc = 0, tRc = 1
+	File name = "MINWTIME", rc = 0, wRc = 0, cRc = 0, tRc = 1
+	File name = "Y19WTIME", rc = 0, wRc = 0, cRc = 0, tRc = 1
+	File name = "Y2KWTIME", rc = 0, wRc = 0, cRc = 0, tRc = 1
+	File name = "MAXATIME", rc = 0, wRc = 0, cRc = 0, tRc = 1
+	File name = "MINATIME", rc = 0, wRc = 0, cRc = 0, tRc = 1
+	File name = "Y19ATIME", rc = 0, wRc = 0, cRc = 0, tRc = 1
+	File name = "Y2KATIME", rc = 0, wRc = 0, cRc = 0, tRc = 1
+Creating deepest directory tree.
+	Created 9 levels of directory hierarchy
+	File name = "HALFCLST", size = 2048, rc = 0, wRc = 0, cRc = 0
+	File name = "QUARCLST", size = 1024, rc = 0, wRc = 0, cRc = 0
+	File name = "TWOCLST", size = 8192, rc = 0, wRc = 0, cRc = 0
+	File name = "TRQTCLST", size = 3072, rc = 0, wRc = 0, cRc = 0
+	File name = "TWTQCLST", size = 11264, rc = 0, wRc = 0, cRc = 0
+	File name = "TWO1", size = 8192, rc = 0, wRc = 0, cRc = 0
+	File name = "TWO2", size = 8192, rc = 0, wRc = 0, cRc = 0
+	Deleting "TWO2".
+	File name = "TWO3", size = 8192, rc = 0, wRc = 0, cRc = 0
+	Deleting "TWO1".
+	Deleting "TWO3".
+	File name = "FRAGTHRQ", size = 3072, rc = 0, wRc = 0, cRc = 0
+	File name = "FRAGSIXQ", size = 11264, rc = 0, wRc = 0, cRc = 0
+Creating lots of files.
+	Created 1000 files
+Creating and deleting files.
+	Bytes per sector: 512
+	Sectors per cluster: 8 (4096 bytes)
+	Clusters: 2883 (11808768 bytes)
+	Free clusters: 2794 (11444224 bytes)
+==============================================
+Log finished on Fri May  7 05:39:21 2021
+
+==============================================
+

@@ -1,0 +1,42 @@
+{
+  "A_LONG_N.000": {
+    "Children": {
+      "@DIRNAME.000": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 3,
+          "Length": 256,
+          "Links": 1,
+          "LastWriteTimeUtc": "2018-03-07T17:51:24Z",
+          "LastWriteTime": "2018-03-07T17:51:24+00:00"
+        },
+        "Md5": "21c39893500ccf0b51feb344e1d4556f"
+      },
+      "BIGCALC.GEO": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 106,
+          "BlockSize": 512,
+          "Inode": 4,
+          "Length": 54168,
+          "Links": 1,
+          "LastWriteTimeUtc": "1998-06-16T12:19:12Z",
+          "LastWriteTime": "1998-06-16T13:19:12+01:00"
+        },
+        "Md5": "2986e9ecd29ce2912320ab6156a161c3"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 2,
+      "Length": 512,
+      "Links": 1,
+      "LastWriteTimeUtc": "2018-03-07T17:51:24Z",
+      "LastWriteTime": "2018-03-07T17:51:24+00:00"
+    }
+  }
+}

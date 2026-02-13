@@ -1,0 +1,15 @@
+{
+  "READ.ME": {
+    "Info": {
+      "Attributes": "Archive",
+      "Blocks": 1,
+      "BlockSize": 1024,
+      "Inode": 2,
+      "Length": 24,
+      "Links": 1,
+      "LastWriteTimeUtc": "2017-08-01T23:53:52Z",
+      "LastWriteTime": "2017-08-02T00:53:52+01:00"
+    },
+    "Md5": "7a0a2d13dcd2969f04b57a80e0faca6b"
+  }
+}

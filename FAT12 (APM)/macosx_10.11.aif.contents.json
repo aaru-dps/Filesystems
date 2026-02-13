@@ -1,0 +1,63 @@
+{
+  "._.Trashes": {
+    "Info": {
+      "Attributes": "Archive, Hidden",
+      "Blocks": 2,
+      "BlockSize": 2048,
+      "Inode": 3,
+      "Length": 4096,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-03T22:40:44.02Z",
+      "LastWriteTimeUtc": "2017-07-03T22:40:44Z",
+      "CreationTime": "2017-07-03T23:40:44.02+01:00",
+      "LastWriteTime": "2017-07-03T23:40:44+01:00"
+    },
+    "Md5": "5ecad39c470178e1b0ef93e534b60fda"
+  },
+  ".Trashes": {
+    "Children": {
+      "501": {
+        "Children": {},
+        "Info": {
+          "Attributes": "Directory, Hidden",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 5,
+          "Length": 2048,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-03T22:43:42.41Z",
+          "LastWriteTimeUtc": "2017-07-03T22:43:42Z",
+          "CreationTime": "2017-07-03T23:43:42.41+01:00",
+          "LastWriteTime": "2017-07-03T23:43:42+01:00"
+        }
+      },
+      "._501": {
+        "Info": {
+          "Attributes": "Archive, Hidden",
+          "Blocks": 2,
+          "BlockSize": 2048,
+          "Inode": 6,
+          "Length": 4096,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-03T22:43:42.42Z",
+          "LastWriteTimeUtc": "2017-07-03T22:43:42Z",
+          "CreationTime": "2017-07-03T23:43:42.42+01:00",
+          "LastWriteTime": "2017-07-03T23:43:42+01:00"
+        },
+        "Md5": "5ecad39c470178e1b0ef93e534b60fda"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory, Hidden",
+      "Blocks": 1,
+      "BlockSize": 2048,
+      "Inode": 2,
+      "Length": 2048,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-03T22:40:44.02Z",
+      "LastWriteTimeUtc": "2017-07-03T22:40:44Z",
+      "CreationTime": "2017-07-03T23:40:44.02+01:00",
+      "LastWriteTime": "2017-07-03T23:40:44+01:00"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "._.Trashes": {
+    "Info": {
+      "Attributes": "Archive, Hidden",
+      "Blocks": 2,
+      "BlockSize": 2048,
+      "Inode": 3,
+      "Length": 4096,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-03T22:19:13.19Z",
+      "LastWriteTimeUtc": "2017-07-03T22:19:12Z",
+      "CreationTime": "2017-07-03T23:19:13.19+01:00",
+      "LastWriteTime": "2017-07-03T23:19:12+01:00"
+    },
+    "Md5": "5ecad39c470178e1b0ef93e534b60fda"
+  },
+  ".Trashes": {
+    "Children": {},
+    "Info": {
+      "Attributes": "Directory, Hidden",
+      "Blocks": 1,
+      "BlockSize": 2048,
+      "Inode": 2,
+      "Length": 2048,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-03T22:19:13.18Z",
+      "LastWriteTimeUtc": "2017-07-03T22:19:12Z",
+      "CreationTime": "2017-07-03T23:19:13.18+01:00",
+      "LastWriteTime": "2017-07-03T23:19:12+01:00"
+    }
+  },
+  ".fseventsd": {
+    "Children": {
+      "fseventsd-uuid": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 6,
+          "Length": 36,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-03T22:19:13.29Z",
+          "LastWriteTimeUtc": "2017-07-03T22:20:14Z",
+          "CreationTime": "2017-07-03T23:19:13.29+01:00",
+          "LastWriteTime": "2017-07-03T23:20:14+01:00"
+        },
+        "Md5": "051efc8acdc15a885669e0b464c46da1"
+      },
+      "000000000068c11d": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 8,
+          "Length": 93,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-03T22:20:14.16Z",
+          "LastWriteTimeUtc": "2017-07-03T22:20:14Z",
+          "CreationTime": "2017-07-03T23:20:14.16+01:00",
+          "LastWriteTime": "2017-07-03T23:20:14+01:00"
+        },
+        "Md5": "362577b5b54f71d0b7330a6c6d2d4048"
+      },
+      "000000000068c11e": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 2048,
+          "Inode": 9,
+          "Length": 71,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-03T22:20:14.16Z",
+          "LastWriteTimeUtc": "2017-07-03T22:20:14Z",
+          "CreationTime": "2017-07-03T23:20:14.16+01:00",
+          "LastWriteTime": "2017-07-03T23:20:14+01:00"
+        },
+        "Md5": "d537b903530d9829abad128505bd6d48"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory, Hidden",
+      "Blocks": 1,
+      "BlockSize": 2048,
+      "Inode": 5,
+      "Length": 2048,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-03T22:19:13.28Z",
+      "LastWriteTimeUtc": "2017-07-03T22:19:12Z",
+      "CreationTime": "2017-07-03T23:19:13.28+01:00",
+      "LastWriteTime": "2017-07-03T23:19:12+01:00"
+    }
+  }
+}

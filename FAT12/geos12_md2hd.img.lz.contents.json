@@ -1,0 +1,29 @@
+{
+  "GEOS12": {
+    "Children": {
+      "CALC.GEO": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 29,
+          "BlockSize": 512,
+          "Inode": 2,
+          "Length": 14534,
+          "Links": 1,
+          "LastWriteTimeUtc": "2018-03-07T16:29:38Z",
+          "LastWriteTime": "2018-03-07T16:29:38+00:00"
+        },
+        "Md5": "e86c3ec809a5d8da72b83f9feedfe19e"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 31,
+      "Length": 512,
+      "Links": 1,
+      "LastWriteTimeUtc": "2018-03-07T17:00:00Z",
+      "LastWriteTime": "2018-03-07T17:00:00+00:00"
+    }
+  }
+}

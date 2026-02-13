@@ -1,0 +1,159 @@
+{
+  "F2C": {
+    "Children": {
+      "F2C.X": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 107,
+          "BlockSize": 1024,
+          "Inode": 785,
+          "Length": 108708,
+          "Links": 1
+        },
+        "Md5": "455c5b0a860a0ccafacdfd45f4ffab17"
+      },
+      "I77LIB.A": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 46,
+          "BlockSize": 1024,
+          "Inode": 1053,
+          "Length": 46232,
+          "Links": 1
+        },
+        "Md5": "56537b3d67afbd368925627073eacd7a"
+      },
+      "F77LIB.A": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 29,
+          "BlockSize": 1024,
+          "Inode": 1099,
+          "Length": 29184,
+          "Links": 1
+        },
+        "Md5": "dc1302b955825d20e0815eec65416eab"
+      },
+      "I77LIB.L": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 63,
+          "BlockSize": 1024,
+          "Inode": 1128,
+          "Length": 64010,
+          "Links": 1
+        },
+        "Md5": "c00be72a8097aa4769daafabd2216f1a"
+      },
+      "F77LIB.L": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 50,
+          "BlockSize": 1024,
+          "Inode": 1191,
+          "Length": 50494,
+          "Links": 1
+        },
+        "Md5": "765d56dc6eca1c2ac2e682e01cb4f44d"
+      },
+      "F2C.H": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 5,
+          "BlockSize": 1024,
+          "Inode": 20,
+          "Length": 4303,
+          "Links": 1
+        },
+        "Md5": "c635b2cf9311d62e93c8bf8a15c0dfaf"
+      },
+      "F2CSRC.LZH": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 322,
+          "BlockSize": 1024,
+          "Inode": 25,
+          "Length": 329130,
+          "Links": 1
+        },
+        "Md5": "8017434170a796ba94f284bc2703445a"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 1024,
+      "Inode": 324,
+      "Length": 1024,
+      "Links": 1
+    }
+  },
+  "P2C": {
+    "Children": {
+      "P2CSRC.LZH": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 419,
+          "BlockSize": 1024,
+          "Inode": 349,
+          "Length": 428092,
+          "Links": 1
+        },
+        "Md5": "bc184c6d3af17cc04911e46dcf15a77d"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 1024,
+      "Inode": 348,
+      "Length": 1024,
+      "Links": 1
+    }
+  },
+  "UNDUMP": {
+    "Children": {
+      "DATARELOC.X": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 7,
+          "BlockSize": 1024,
+          "Inode": 769,
+          "Length": 6902,
+          "Links": 1
+        },
+        "Md5": "d643c5a19f99a85d07505c5d302ee9c6"
+      },
+      "ZERO.X": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 8,
+          "BlockSize": 1024,
+          "Inode": 776,
+          "Length": 7692,
+          "Links": 1
+        },
+        "Md5": "0154e9ee7ea66c3f36741a79caca14d6"
+      },
+      "GCCDUMP.BAT": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 1024,
+          "Inode": 784,
+          "Length": 175,
+          "Links": 1
+        },
+        "Md5": "c94a984c8499ed548fad5bdbb264ae71"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 1024,
+      "Inode": 768,
+      "Length": 1024,
+      "Links": 1
+    }
+  }
+}

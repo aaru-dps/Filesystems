@@ -1,0 +1,1370 @@
+{
+  "ATTRS": {
+    "Children": {
+      "NONE": {
+        "Info": {
+          "Attributes": "None",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 3,
+          "Length": 32,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:54Z",
+          "LastWriteTime": "2021-04-30T21:34:54+01:00"
+        },
+        "Md5": "462107212135171ceac5b4f7b3100971"
+      },
+      "ARCHIVE": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 4,
+          "Length": 42,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:54Z",
+          "LastWriteTime": "2021-04-30T21:34:54+01:00"
+        },
+        "Md5": "23cadc460608518626e0cec0f0a31584"
+      },
+      "SYSTEM": {
+        "Info": {
+          "Attributes": "System",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 5,
+          "Length": 40,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:54Z",
+          "LastWriteTime": "2021-04-30T21:34:54+01:00"
+        },
+        "Md5": "245e829b7665b382ed8f724fb069f065"
+      },
+      "HIDDEN": {
+        "Info": {
+          "Attributes": "Hidden",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 6,
+          "Length": 40,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:54Z",
+          "LastWriteTime": "2021-04-30T21:34:54+01:00"
+        },
+        "Md5": "e739f914a841818acaf72833b9c1f79c"
+      },
+      "READONLY": {
+        "Info": {
+          "Attributes": "ReadOnly",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 7,
+          "Length": 43,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:54Z",
+          "LastWriteTime": "2021-04-30T21:34:54+01:00"
+        },
+        "Md5": "2a96b0c08cfdcb44080ff20187484b66"
+      },
+      "HIDDREAD": {
+        "Info": {
+          "Attributes": "Hidden, ReadOnly",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 8,
+          "Length": 83,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:54Z",
+          "LastWriteTime": "2021-04-30T21:34:54+01:00"
+        },
+        "Md5": "185fff918e822b10185a0086f30f9879"
+      },
+      "SYSTREAD": {
+        "Info": {
+          "Attributes": "ReadOnly, System",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 9,
+          "Length": 83,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:54Z",
+          "LastWriteTime": "2021-04-30T21:34:54+01:00"
+        },
+        "Md5": "5f75c89846b022bbbaa54b34c678cf31"
+      },
+      "SYSTHIDD": {
+        "Info": {
+          "Attributes": "Hidden, System",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 10,
+          "Length": 80,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:54Z",
+          "LastWriteTime": "2021-04-30T21:34:54+01:00"
+        },
+        "Md5": "105067883067ec7873eb770ee433652f"
+      },
+      "SYSRDYHD": {
+        "Info": {
+          "Attributes": "Hidden, ReadOnly, System",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 11,
+          "Length": 123,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:56Z",
+          "LastWriteTime": "2021-04-30T21:34:56+01:00"
+        },
+        "Md5": "36a5342ef6ff6f1ac0157f688e1e53bc"
+      },
+      "ARCHREAD": {
+        "Info": {
+          "Attributes": "Archive, ReadOnly",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 12,
+          "Length": 85,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:56Z",
+          "LastWriteTime": "2021-04-30T21:34:56+01:00"
+        },
+        "Md5": "3751435d44e6425b647a478cf6a0b77d"
+      },
+      "ARCHHIDD": {
+        "Info": {
+          "Attributes": "Archive, Hidden",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 13,
+          "Length": 82,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:56Z",
+          "LastWriteTime": "2021-04-30T21:34:56+01:00"
+        },
+        "Md5": "86a7ef883d668891c99faaddb30333d9"
+      },
+      "ARCHDRDY": {
+        "Info": {
+          "Attributes": "Archive, Hidden, ReadOnly",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 14,
+          "Length": 125,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:56Z",
+          "LastWriteTime": "2021-04-30T21:34:56+01:00"
+        },
+        "Md5": "e0f80967b1324a73f851b2d9ad6e0297"
+      },
+      "ARCHSYST": {
+        "Info": {
+          "Attributes": "Archive, System",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 15,
+          "Length": 82,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:56Z",
+          "LastWriteTime": "2021-04-30T21:34:56+01:00"
+        },
+        "Md5": "ae2d73e75de2bfda517394c1fdb8376f"
+      },
+      "ARSYSRDY": {
+        "Info": {
+          "Attributes": "Archive, ReadOnly, System",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 16,
+          "Length": 125,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:56Z",
+          "LastWriteTime": "2021-04-30T21:34:56+01:00"
+        },
+        "Md5": "9e5afba85acc1ec4e165b52a2cf07fc6"
+      },
+      "ARCSYSHD": {
+        "Info": {
+          "Attributes": "Archive, Hidden, System",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 18,
+          "Length": 122,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:58Z",
+          "LastWriteTime": "2021-04-30T21:34:58+01:00"
+        },
+        "Md5": "8b01a3c6c5fbe65770b6db31f807f1fe"
+      },
+      "ARSYHDRD": {
+        "Info": {
+          "Attributes": "Archive, Hidden, ReadOnly, System",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 19,
+          "Length": 165,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:58Z",
+          "LastWriteTime": "2021-04-30T21:34:58+01:00"
+        },
+        "Md5": "b943ba3c3dfd86441facbb3a508db6d1"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 2,
+      "BlockSize": 512,
+      "Inode": 2,
+      "Length": 1024,
+      "Links": 1,
+      "LastWriteTimeUtc": "2021-04-30T20:34:54Z",
+      "LastWriteTime": "2021-04-30T21:34:54+01:00"
+    }
+  },
+  "XATTRS": {
+    "Children": {
+      "COMMENTS": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 21,
+          "Length": 40,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:58Z",
+          "LastWriteTime": "2021-04-30T21:34:58+01:00"
+        },
+        "Md5": "94d38e0f9b213d99eaed401705e7a6dd",
+        "XattrsWithMd5": {
+          "com.microsoft.os2.comments": "8d863fbaa5758ee3b0844b48fdfa343e"
+        }
+      },
+      "COMMENTS.CRT": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 25,
+          "Length": 39,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:34:58Z",
+          "LastWriteTime": "2021-04-30T21:34:58+01:00"
+        },
+        "Md5": "be5065edb02aef84f59b7cb8c4e88981",
+        "XattrsWithMd5": {
+          "com.microsoft.os2.comments": "8d863fbaa5758ee3b0844b48fdfa343e"
+        }
+      },
+      "ICON": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 27,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:00Z",
+          "LastWriteTime": "2021-04-30T21:35:00+01:00"
+        },
+        "Md5": "3fe94dd0c08bf255b987024048a52f2a",
+        "XattrsWithMd5": {
+          "com.microsoft.os2.icon": "5c49fef157294b316335bd5642def6dd"
+        }
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 20,
+      "Length": 512,
+      "Links": 1,
+      "LastWriteTimeUtc": "2021-04-30T20:34:58Z",
+      "LastWriteTime": "2021-04-30T21:34:58+01:00"
+    }
+  },
+  "FILENAME": {
+    "Children": {
+      "FILNAM": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 36,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:00Z",
+          "LastWriteTime": "2021-04-30T21:35:00+01:00"
+        },
+        "Md5": "1f79077005f6be5fa09d403c63a0467a"
+      },
+      "FILNAM.EXT": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 37,
+          "Length": 40,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:00Z",
+          "LastWriteTime": "2021-04-30T21:35:00+01:00"
+        },
+        "Md5": "0c96e8634b3e65a4693d30f2cfcd7f27"
+      },
+      "FILENAME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 38,
+          "Length": 38,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:00Z",
+          "LastWriteTime": "2021-04-30T21:35:00+01:00"
+        },
+        "Md5": "9b5dcd70c8cddaee44a41792f8340470"
+      },
+      "FILENAME.EXT": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 39,
+          "Length": 42,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:00Z",
+          "LastWriteTime": "2021-04-30T21:35:00+01:00"
+        },
+        "Md5": "fb914240c799509422ca8105049cc941"
+      },
+      "UPPCAS": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 40,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:00Z",
+          "LastWriteTime": "2021-04-30T21:35:00+01:00"
+        },
+        "Md5": "328d25531669ddff231488c7c0a2fd78"
+      },
+      "LOWCAS": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 41,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:00Z",
+          "LastWriteTime": "2021-04-30T21:35:00+01:00"
+        },
+        "Md5": "f44b1a97a2830fcdf822f4a082745513"
+      },
+      "UPPER.LOW": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 42,
+          "Length": 39,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:02Z",
+          "LastWriteTime": "2021-04-30T21:35:02+01:00"
+        },
+        "Md5": "45260456b9723db022516883273828de"
+      },
+      "LOWER.UP": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 43,
+          "Length": 38,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:02Z",
+          "LastWriteTime": "2021-04-30T21:35:02+01:00"
+        },
+        "Md5": "957901ab5bc99f8768f57e3c0587f0b9"
+      },
+      "CAMUPR": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 44,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:02Z",
+          "LastWriteTime": "2021-04-30T21:35:02+01:00"
+        },
+        "Md5": "07fcbbfdb5a83f316bca6144ff7e5662"
+      },
+      "DROMED": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 45,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:02Z",
+          "LastWriteTime": "2021-04-30T21:35:02+01:00"
+        },
+        "Md5": "c067a4890bcef1819dbae511dc4ce966"
+      },
+      "FIL NA": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 46,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:02Z",
+          "LastWriteTime": "2021-04-30T21:35:02+01:00"
+        },
+        "Md5": "17c71930dbe9da683ed5fa0a8892497b"
+      },
+      " FILNA": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 47,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:02Z",
+          "LastWriteTime": "2021-04-30T21:35:02+01:00"
+        },
+        "Md5": "61a094650daebac69f04d4419102c6f7"
+      },
+      "FILNA": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 48,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:04Z",
+          "LastWriteTime": "2021-04-30T21:35:04+01:00"
+        },
+        "Md5": "80b2d6100700e7ef17d7682215f9f822"
+      },
+      "FILE. XT": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 49,
+          "Length": 38,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:04Z",
+          "LastWriteTime": "2021-04-30T21:35:04+01:00"
+        },
+        "Md5": "c67b9525b00e0e146a05c173934096e8"
+      },
+      "FILE.EXT": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 51,
+          "Length": 39,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:04Z",
+          "LastWriteTime": "2021-04-30T21:35:04+01:00"
+        },
+        "Md5": "9e2e9dc7190446ee07e957bc158d070c"
+      },
+      "N!A!M!": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 52,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:06Z",
+          "LastWriteTime": "2021-04-30T21:35:06+01:00"
+        },
+        "Md5": "a3964caa23ebde979ac7d9814235ad03"
+      },
+      "\u0027QUOT\u0027": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 53,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:06Z",
+          "LastWriteTime": "2021-04-30T21:35:06+01:00"
+        },
+        "Md5": "9579359260d465406991d2e0d79e1283"
+      },
+      "NA%%ME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 54,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:08Z",
+          "LastWriteTime": "2021-04-30T21:35:08+01:00"
+        },
+        "Md5": "cac41c18d13e1d28ea5cd2e5a7904afa"
+      },
+      "NAME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 55,
+          "Length": 35,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:08Z",
+          "LastWriteTime": "2021-04-30T21:35:08+01:00"
+        },
+        "Md5": "d9920b6c392e5767b3610e77c93ed444"
+      },
+      "N$ME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 56,
+          "Length": 34,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:08Z",
+          "LastWriteTime": "2021-04-30T21:35:08+01:00"
+        },
+        "Md5": "658bacff1daf0aed79c31cc027b5c077"
+      },
+      "N@ME@": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 57,
+          "Length": 35,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:08Z",
+          "LastWriteTime": "2021-04-30T21:35:08+01:00"
+        },
+        "Md5": "8907cfbdbf2fa0c21ae2dd62181d9ecd"
+      },
+      "NAM#": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 58,
+          "Length": 34,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:08Z",
+          "LastWriteTime": "2021-04-30T21:35:08+01:00"
+        },
+        "Md5": "d36e6828d841af3ac7107775fc2a3598"
+      },
+      "NA-ME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 59,
+          "Length": 35,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:08Z",
+          "LastWriteTime": "2021-04-30T21:35:08+01:00"
+        },
+        "Md5": "fd13668c4e54b1d4338e607673aa0f36"
+      },
+      "_NAME_": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 60,
+          "Length": 36,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:10Z",
+          "LastWriteTime": "2021-04-30T21:35:10+01:00"
+        },
+        "Md5": "26d6ae64eeaac65cdb4549abc25d430f"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 2,
+      "BlockSize": 512,
+      "Inode": 35,
+      "Length": 1024,
+      "Links": 1,
+      "LastWriteTimeUtc": "2021-04-30T20:35:00Z",
+      "LastWriteTime": "2021-04-30T21:35:00+01:00"
+    }
+  },
+  "TIMES": {
+    "Children": {
+      "MAXCTIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 62,
+          "Length": 52,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:10Z",
+          "LastWriteTime": "2021-04-30T21:35:10+01:00"
+        },
+        "Md5": "f1bc2335e50eefa6d747bc2326f9cf68"
+      },
+      "MINCTIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 63,
+          "Length": 52,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:10Z",
+          "LastWriteTime": "2021-04-30T21:35:10+01:00"
+        },
+        "Md5": "a434e0042e9f2723d816d8ebb7abc768"
+      },
+      "Y19CTIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 64,
+          "Length": 52,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:10Z",
+          "LastWriteTime": "2021-04-30T21:35:10+01:00"
+        },
+        "Md5": "32f6d6b1215d5b22e6fa76cc5acdabe2"
+      },
+      "Y2KCTIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 65,
+          "Length": 52,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:10Z",
+          "LastWriteTime": "2021-04-30T21:35:10+01:00"
+        },
+        "Md5": "3972d0f5f442f7585d37ee70c285b6b0"
+      },
+      "MAXWTIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 66,
+          "Length": 56,
+          "Links": 1,
+          "LastWriteTimeUtc": "2107-12-31T23:59:58Z",
+          "LastWriteTime": "2107-12-31T23:59:58+00:00"
+        },
+        "Md5": "15e46de0d9885ee55b308fa58896fcca"
+      },
+      "MINWTIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 67,
+          "Length": 56,
+          "Links": 1,
+          "LastWriteTimeUtc": "1980-01-01T00:00:00Z",
+          "LastWriteTime": "1980-01-01T00:00:00+00:00"
+        },
+        "Md5": "eab42a54066976b29970a311066fb590"
+      },
+      "Y19WTIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 68,
+          "Length": 56,
+          "Links": 1,
+          "LastWriteTimeUtc": "1999-12-31T23:59:58Z",
+          "LastWriteTime": "1999-12-31T23:59:58+00:00"
+        },
+        "Md5": "09f76415dc758b82bb419f0822f7ecf5"
+      },
+      "Y2KWTIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 69,
+          "Length": 56,
+          "Links": 1,
+          "LastWriteTimeUtc": "2000-01-01T00:00:00Z",
+          "LastWriteTime": "2000-01-01T00:00:00+00:00"
+        },
+        "Md5": "6af34d276fda07452ee83eae1e41adc0"
+      },
+      "MAXATIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 70,
+          "Length": 55,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:12Z",
+          "LastWriteTime": "2021-04-30T21:35:12+01:00"
+        },
+        "Md5": "d41410c0c3aab288705ce2393a122c07"
+      },
+      "MINATIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 71,
+          "Length": 55,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:12Z",
+          "LastWriteTime": "2021-04-30T21:35:12+01:00"
+        },
+        "Md5": "227f5a647bec8392af31c49feca41ee1"
+      },
+      "Y19ATIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 72,
+          "Length": 55,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:12Z",
+          "LastWriteTime": "2021-04-30T21:35:12+01:00"
+        },
+        "Md5": "d40374011e6f445dc14a83e30ee186b7"
+      },
+      "Y2KATIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 73,
+          "Length": 55,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:12Z",
+          "LastWriteTime": "2021-04-30T21:35:12+01:00"
+        },
+        "Md5": "20ecd80a4fade98687cffb012adf47de"
+      },
+      "MAX_TIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 74,
+          "Length": 47,
+          "Links": 1,
+          "LastWriteTimeUtc": "2107-12-31T23:59:58Z",
+          "LastWriteTime": "2107-12-31T23:59:58+00:00"
+        },
+        "Md5": "c0713560122fa1a66f86e5923f21e019"
+      },
+      "MIN_TIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 75,
+          "Length": 47,
+          "Links": 1,
+          "LastWriteTimeUtc": "1980-01-01T00:00:00Z",
+          "LastWriteTime": "1980-01-01T00:00:00+00:00"
+        },
+        "Md5": "c649f416f62ee9d7906e187bc4169e74"
+      },
+      "Y19_TIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 77,
+          "Length": 47,
+          "Links": 1,
+          "LastWriteTimeUtc": "1999-12-31T23:59:58Z",
+          "LastWriteTime": "1999-12-31T23:59:58+00:00"
+        },
+        "Md5": "e761a4a31e96144363ce45c02a5444b7"
+      },
+      "Y2K_TIME": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 78,
+          "Length": 47,
+          "Links": 1,
+          "LastWriteTimeUtc": "2000-01-01T00:00:00Z",
+          "LastWriteTime": "2000-01-01T00:00:00+00:00"
+        },
+        "Md5": "6f14cc3050782287214d71536d2c65ab"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 2,
+      "BlockSize": 512,
+      "Inode": 61,
+      "Length": 1024,
+      "Links": 1,
+      "LastWriteTimeUtc": "2021-04-30T20:35:10Z",
+      "LastWriteTime": "2021-04-30T21:35:10+01:00"
+    }
+  },
+  "DEPTH": {
+    "Children": {
+      "00000002": {
+        "Children": {
+          "00000003": {
+            "Children": {
+              "00000004": {
+                "Children": {
+                  "00000005": {
+                    "Children": {
+                      "00000006": {
+                        "Children": {
+                          "00000007": {
+                            "Children": {
+                              "00000008": {
+                                "Children": {
+                                  "00000009": {
+                                    "Children": {
+                                      "00000010": {
+                                        "Children": {
+                                          "00000011": {
+                                            "Children": {
+                                              "00000012": {
+                                                "Children": {
+                                                  "00000013": {
+                                                    "Children": {
+                                                      "00000014": {
+                                                        "Children": {
+                                                          "00000015": {
+                                                            "Children": {
+                                                              "00000016": {
+                                                                "Children": {
+                                                                  "00000017": {
+                                                                    "Children": {
+                                                                      "00000018": {
+                                                                        "Children": {
+                                                                          "00000019": {
+                                                                            "Children": {
+                                                                              "00000020": {
+                                                                                "Children": {
+                                                                                  "00000021": {
+                                                                                    "Children": {
+                                                                                      "00000022": {
+                                                                                        "Children": {
+                                                                                          "00000023": {
+                                                                                            "Children": {
+                                                                                              "00000024": {
+                                                                                                "Children": {
+                                                                                                  "00000025": {
+                                                                                                    "Children": {
+                                                                                                      "00000026": {
+                                                                                                        "Children": {
+                                                                                                          "00000027": {
+                                                                                                            "Children": {
+                                                                                                              "00000028": {
+                                                                                                                "Children": {},
+                                                                                                                "Info": {
+                                                                                                                  "Attributes": "Directory",
+                                                                                                                  "Blocks": 1,
+                                                                                                                  "BlockSize": 512,
+                                                                                                                  "Inode": 106,
+                                                                                                                  "Length": 512,
+                                                                                                                  "Links": 1,
+                                                                                                                  "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                                                                                  "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                                                                                }
+                                                                                                              }
+                                                                                                            },
+                                                                                                            "Info": {
+                                                                                                              "Attributes": "Directory",
+                                                                                                              "Blocks": 1,
+                                                                                                              "BlockSize": 512,
+                                                                                                              "Inode": 105,
+                                                                                                              "Length": 512,
+                                                                                                              "Links": 1,
+                                                                                                              "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                                                                              "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                                                                            }
+                                                                                                          }
+                                                                                                        },
+                                                                                                        "Info": {
+                                                                                                          "Attributes": "Directory",
+                                                                                                          "Blocks": 1,
+                                                                                                          "BlockSize": 512,
+                                                                                                          "Inode": 104,
+                                                                                                          "Length": 512,
+                                                                                                          "Links": 1,
+                                                                                                          "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                                                                          "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                                                                        }
+                                                                                                      }
+                                                                                                    },
+                                                                                                    "Info": {
+                                                                                                      "Attributes": "Directory",
+                                                                                                      "Blocks": 1,
+                                                                                                      "BlockSize": 512,
+                                                                                                      "Inode": 103,
+                                                                                                      "Length": 512,
+                                                                                                      "Links": 1,
+                                                                                                      "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                                                                      "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                                                                    }
+                                                                                                  }
+                                                                                                },
+                                                                                                "Info": {
+                                                                                                  "Attributes": "Directory",
+                                                                                                  "Blocks": 1,
+                                                                                                  "BlockSize": 512,
+                                                                                                  "Inode": 102,
+                                                                                                  "Length": 512,
+                                                                                                  "Links": 1,
+                                                                                                  "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                                                                  "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                                                                }
+                                                                                              }
+                                                                                            },
+                                                                                            "Info": {
+                                                                                              "Attributes": "Directory",
+                                                                                              "Blocks": 1,
+                                                                                              "BlockSize": 512,
+                                                                                              "Inode": 101,
+                                                                                              "Length": 512,
+                                                                                              "Links": 1,
+                                                                                              "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                                                              "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                                                            }
+                                                                                          }
+                                                                                        },
+                                                                                        "Info": {
+                                                                                          "Attributes": "Directory",
+                                                                                          "Blocks": 1,
+                                                                                          "BlockSize": 512,
+                                                                                          "Inode": 100,
+                                                                                          "Length": 512,
+                                                                                          "Links": 1,
+                                                                                          "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                                                          "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                                                        }
+                                                                                      }
+                                                                                    },
+                                                                                    "Info": {
+                                                                                      "Attributes": "Directory",
+                                                                                      "Blocks": 1,
+                                                                                      "BlockSize": 512,
+                                                                                      "Inode": 99,
+                                                                                      "Length": 512,
+                                                                                      "Links": 1,
+                                                                                      "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                                                      "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                                                    }
+                                                                                  }
+                                                                                },
+                                                                                "Info": {
+                                                                                  "Attributes": "Directory",
+                                                                                  "Blocks": 1,
+                                                                                  "BlockSize": 512,
+                                                                                  "Inode": 98,
+                                                                                  "Length": 512,
+                                                                                  "Links": 1,
+                                                                                  "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                                                  "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                                                }
+                                                                              }
+                                                                            },
+                                                                            "Info": {
+                                                                              "Attributes": "Directory",
+                                                                              "Blocks": 1,
+                                                                              "BlockSize": 512,
+                                                                              "Inode": 97,
+                                                                              "Length": 512,
+                                                                              "Links": 1,
+                                                                              "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                                              "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                                            }
+                                                                          }
+                                                                        },
+                                                                        "Info": {
+                                                                          "Attributes": "Directory",
+                                                                          "Blocks": 1,
+                                                                          "BlockSize": 512,
+                                                                          "Inode": 96,
+                                                                          "Length": 512,
+                                                                          "Links": 1,
+                                                                          "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                                          "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                                        }
+                                                                      }
+                                                                    },
+                                                                    "Info": {
+                                                                      "Attributes": "Directory",
+                                                                      "Blocks": 1,
+                                                                      "BlockSize": 512,
+                                                                      "Inode": 95,
+                                                                      "Length": 512,
+                                                                      "Links": 1,
+                                                                      "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                                      "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                                    }
+                                                                  }
+                                                                },
+                                                                "Info": {
+                                                                  "Attributes": "Directory",
+                                                                  "Blocks": 1,
+                                                                  "BlockSize": 512,
+                                                                  "Inode": 94,
+                                                                  "Length": 512,
+                                                                  "Links": 1,
+                                                                  "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                                  "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                                }
+                                                              }
+                                                            },
+                                                            "Info": {
+                                                              "Attributes": "Directory",
+                                                              "Blocks": 1,
+                                                              "BlockSize": 512,
+                                                              "Inode": 93,
+                                                              "Length": 512,
+                                                              "Links": 1,
+                                                              "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                              "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                            }
+                                                          }
+                                                        },
+                                                        "Info": {
+                                                          "Attributes": "Directory",
+                                                          "Blocks": 1,
+                                                          "BlockSize": 512,
+                                                          "Inode": 92,
+                                                          "Length": 512,
+                                                          "Links": 1,
+                                                          "LastWriteTimeUtc": "2021-04-30T20:35:16Z",
+                                                          "LastWriteTime": "2021-04-30T21:35:16+01:00"
+                                                        }
+                                                      }
+                                                    },
+                                                    "Info": {
+                                                      "Attributes": "Directory",
+                                                      "Blocks": 1,
+                                                      "BlockSize": 512,
+                                                      "Inode": 91,
+                                                      "Length": 512,
+                                                      "Links": 1,
+                                                      "LastWriteTimeUtc": "2021-04-30T20:35:14Z",
+                                                      "LastWriteTime": "2021-04-30T21:35:14+01:00"
+                                                    }
+                                                  }
+                                                },
+                                                "Info": {
+                                                  "Attributes": "Directory",
+                                                  "Blocks": 1,
+                                                  "BlockSize": 512,
+                                                  "Inode": 90,
+                                                  "Length": 512,
+                                                  "Links": 1,
+                                                  "LastWriteTimeUtc": "2021-04-30T20:35:14Z",
+                                                  "LastWriteTime": "2021-04-30T21:35:14+01:00"
+                                                }
+                                              }
+                                            },
+                                            "Info": {
+                                              "Attributes": "Directory",
+                                              "Blocks": 1,
+                                              "BlockSize": 512,
+                                              "Inode": 89,
+                                              "Length": 512,
+                                              "Links": 1,
+                                              "LastWriteTimeUtc": "2021-04-30T20:35:14Z",
+                                              "LastWriteTime": "2021-04-30T21:35:14+01:00"
+                                            }
+                                          }
+                                        },
+                                        "Info": {
+                                          "Attributes": "Directory",
+                                          "Blocks": 1,
+                                          "BlockSize": 512,
+                                          "Inode": 88,
+                                          "Length": 512,
+                                          "Links": 1,
+                                          "LastWriteTimeUtc": "2021-04-30T20:35:14Z",
+                                          "LastWriteTime": "2021-04-30T21:35:14+01:00"
+                                        }
+                                      }
+                                    },
+                                    "Info": {
+                                      "Attributes": "Directory",
+                                      "Blocks": 1,
+                                      "BlockSize": 512,
+                                      "Inode": 87,
+                                      "Length": 512,
+                                      "Links": 1,
+                                      "LastWriteTimeUtc": "2021-04-30T20:35:14Z",
+                                      "LastWriteTime": "2021-04-30T21:35:14+01:00"
+                                    }
+                                  }
+                                },
+                                "Info": {
+                                  "Attributes": "Directory",
+                                  "Blocks": 1,
+                                  "BlockSize": 512,
+                                  "Inode": 86,
+                                  "Length": 512,
+                                  "Links": 1,
+                                  "LastWriteTimeUtc": "2021-04-30T20:35:14Z",
+                                  "LastWriteTime": "2021-04-30T21:35:14+01:00"
+                                }
+                              }
+                            },
+                            "Info": {
+                              "Attributes": "Directory",
+                              "Blocks": 1,
+                              "BlockSize": 512,
+                              "Inode": 85,
+                              "Length": 512,
+                              "Links": 1,
+                              "LastWriteTimeUtc": "2021-04-30T20:35:14Z",
+                              "LastWriteTime": "2021-04-30T21:35:14+01:00"
+                            }
+                          }
+                        },
+                        "Info": {
+                          "Attributes": "Directory",
+                          "Blocks": 1,
+                          "BlockSize": 512,
+                          "Inode": 84,
+                          "Length": 512,
+                          "Links": 1,
+                          "LastWriteTimeUtc": "2021-04-30T20:35:14Z",
+                          "LastWriteTime": "2021-04-30T21:35:14+01:00"
+                        }
+                      }
+                    },
+                    "Info": {
+                      "Attributes": "Directory",
+                      "Blocks": 1,
+                      "BlockSize": 512,
+                      "Inode": 83,
+                      "Length": 512,
+                      "Links": 1,
+                      "LastWriteTimeUtc": "2021-04-30T20:35:14Z",
+                      "LastWriteTime": "2021-04-30T21:35:14+01:00"
+                    }
+                  }
+                },
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 512,
+                  "Inode": 82,
+                  "Length": 512,
+                  "Links": 1,
+                  "LastWriteTimeUtc": "2021-04-30T20:35:14Z",
+                  "LastWriteTime": "2021-04-30T21:35:14+01:00"
+                }
+              }
+            },
+            "Info": {
+              "Attributes": "Directory",
+              "Blocks": 1,
+              "BlockSize": 512,
+              "Inode": 81,
+              "Length": 512,
+              "Links": 1,
+              "LastWriteTimeUtc": "2021-04-30T20:35:14Z",
+              "LastWriteTime": "2021-04-30T21:35:14+01:00"
+            }
+          }
+        },
+        "Info": {
+          "Attributes": "Directory",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 80,
+          "Length": 512,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:14Z",
+          "LastWriteTime": "2021-04-30T21:35:14+01:00"
+        }
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 79,
+      "Length": 512,
+      "Links": 1,
+      "LastWriteTimeUtc": "2021-04-30T20:35:14Z",
+      "LastWriteTime": "2021-04-30T21:35:14+01:00"
+    }
+  },
+  "FRAGS": {
+    "Children": {
+      "HALFCLST": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 108,
+          "Length": 256,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:18Z",
+          "LastWriteTime": "2021-04-30T21:35:18+01:00"
+        },
+        "Md5": "c80ba8929f0263131710ee9247b644af"
+      },
+      "QUARCLST": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 109,
+          "Length": 128,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:18Z",
+          "LastWriteTime": "2021-04-30T21:35:18+01:00"
+        },
+        "Md5": "134029c8c79e244573c3ed94394f2c74"
+      },
+      "TWOCLST": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 2,
+          "BlockSize": 512,
+          "Inode": 110,
+          "Length": 1024,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:18Z",
+          "LastWriteTime": "2021-04-30T21:35:18+01:00"
+        },
+        "Md5": "edd64652f8213fd151653c45209cbced"
+      },
+      "TRQTCLST": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 112,
+          "Length": 384,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:18Z",
+          "LastWriteTime": "2021-04-30T21:35:18+01:00"
+        },
+        "Md5": "683636130dc3c2c80b54f0f17e6cae43"
+      },
+      "TWTQCLST": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 3,
+          "BlockSize": 512,
+          "Inode": 113,
+          "Length": 1408,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:18Z",
+          "LastWriteTime": "2021-04-30T21:35:18+01:00"
+        },
+        "Md5": "4fff7c6966db640e682a14e762c5b940"
+      },
+      "FRAGSIXQ": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 3,
+          "BlockSize": 512,
+          "Inode": 123,
+          "Length": 1408,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:20Z",
+          "LastWriteTime": "2021-04-30T21:35:20+01:00"
+        },
+        "Md5": "4fff7c6966db640e682a14e762c5b940"
+      },
+      "FRAGTHRQ": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 122,
+          "Length": 384,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:20Z",
+          "LastWriteTime": "2021-04-30T21:35:20+01:00"
+        },
+        "Md5": "683636130dc3c2c80b54f0f17e6cae43"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 107,
+      "Length": 512,
+      "Links": 1,
+      "LastWriteTimeUtc": "2021-04-30T20:35:18Z",
+      "LastWriteTime": "2021-04-30T21:35:18+01:00"
+    }
+  },
+  "MILLION": {
+    "Children": {
+      "LU": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 0,
+          "BlockSize": 512,
+          "Inode": 0,
+          "Length": 0,
+          "Links": 1,
+          "LastWriteTimeUtc": "2021-04-30T20:35:22Z",
+          "LastWriteTime": "2021-04-30T21:35:22+01:00"
+        },
+        "Md5": "d41d8cd98f00b204e9800998ecf8427e"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 126,
+      "Length": 512,
+      "Links": 1,
+      "LastWriteTimeUtc": "2021-04-30T20:35:20Z",
+      "LastWriteTime": "2021-04-30T21:35:20+01:00"
+    }
+  },
+  "DELETED": {
+    "Children": {},
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 127,
+      "Length": 512,
+      "Links": 1,
+      "LastWriteTimeUtc": "2021-04-30T20:35:22Z",
+      "LastWriteTime": "2021-04-30T21:35:22+01:00"
+    }
+  }
+}

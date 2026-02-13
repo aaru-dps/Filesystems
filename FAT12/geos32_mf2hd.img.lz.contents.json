@@ -1,0 +1,55 @@
+{
+  "LONG_NAM.000": {
+    "Children": {
+      "@DIRNAME.000": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 3,
+          "Length": 256,
+          "Links": 1,
+          "LastWriteTimeUtc": "2018-03-07T17:58:38Z",
+          "LastWriteTime": "2018-03-07T17:58:38+00:00"
+        },
+        "Md5": "3f9b7a14e1e0d472a3058adae93bd9e6"
+      },
+      "BIGCALC.GEO": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 118,
+          "BlockSize": 512,
+          "Inode": 4,
+          "Length": 59944,
+          "Links": 1,
+          "LastWriteTimeUtc": "2000-08-18T14:10:50Z",
+          "LastWriteTime": "2000-08-18T15:10:50+01:00"
+        },
+        "Md5": "2054a1b1294832b83c6614bbb6b58bf6"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 2,
+      "Length": 512,
+      "Links": 1,
+      "LastWriteTimeUtc": "2018-03-07T17:58:38Z",
+      "LastWriteTime": "2018-03-07T17:58:38+00:00"
+    }
+  },
+  "LICENSE.TXT": {
+    "Info": {
+      "Attributes": "Archive",
+      "Blocks": 17,
+      "BlockSize": 512,
+      "Inode": 122,
+      "Length": 8328,
+      "Links": 1,
+      "LastWriteTimeUtc": "2002-04-15T22:49:32Z",
+      "LastWriteTime": "2002-04-15T23:49:32+01:00"
+    },
+    "Md5": "b2edfd16444aafe25fb12e9306f6c1ea"
+  }
+}

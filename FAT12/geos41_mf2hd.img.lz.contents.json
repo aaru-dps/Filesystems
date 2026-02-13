@@ -1,0 +1,82 @@
+{
+  "A_FOLDER.000": {
+    "Children": {
+      "@DIRNAME.000": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 3,
+          "Length": 256,
+          "Links": 1,
+          "LastWriteTimeUtc": "2018-03-07T17:44:00Z",
+          "LastWriteTime": "2018-03-07T17:44:00+00:00"
+        },
+        "Md5": "f05984c99f0c2fb3990abbccefda08f1"
+      },
+      "BIGCALC.GEO": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 120,
+          "BlockSize": 512,
+          "Inode": 4,
+          "Length": 61260,
+          "Links": 1,
+          "LastWriteTimeUtc": "2005-04-24T12:04:14Z",
+          "LastWriteTime": "2005-04-24T13:04:14+01:00"
+        },
+        "Md5": "5f9512b9a3bd37b5850fac04a7a9c848"
+      },
+      "README.TXT": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 3,
+          "BlockSize": 512,
+          "Inode": 124,
+          "Length": 1204,
+          "Links": 1,
+          "LastWriteTimeUtc": "2005-10-29T14:49:46Z",
+          "LastWriteTime": "2005-10-29T15:49:46+01:00"
+        },
+        "Md5": "31bf65aa03cf0e784c2017a946e30fcc"
+      },
+      "LONG_FOL.000": {
+        "Children": {
+          "@DIRNAME.000": {
+            "Info": {
+              "Attributes": "Archive",
+              "Blocks": 1,
+              "BlockSize": 512,
+              "Inode": 128,
+              "Length": 256,
+              "Links": 1,
+              "LastWriteTimeUtc": "2018-03-07T17:45:00Z",
+              "LastWriteTime": "2018-03-07T17:45:00+00:00"
+            },
+            "Md5": "0390303a9bc76898bc340f9c05493d8d"
+          }
+        },
+        "Info": {
+          "Attributes": "Directory",
+          "Blocks": 1,
+          "BlockSize": 512,
+          "Inode": 127,
+          "Length": 512,
+          "Links": 1,
+          "LastWriteTimeUtc": "2018-03-07T17:45:00Z",
+          "LastWriteTime": "2018-03-07T17:45:00+00:00"
+        }
+      }
+    },
+    "Info": {
+      "Attributes": "Directory",
+      "Blocks": 1,
+      "BlockSize": 512,
+      "Inode": 2,
+      "Length": 512,
+      "Links": 1,
+      "LastWriteTimeUtc": "2018-03-07T17:43:58Z",
+      "LastWriteTime": "2018-03-07T17:43:58+00:00"
+    }
+  }
+}
