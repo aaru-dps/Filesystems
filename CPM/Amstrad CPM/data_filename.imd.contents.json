@@ -1,0 +1,335 @@
+{
+    "FILNAM": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "FILNAM.EXT": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "FILENAME": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "FILENAME.EXT": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "UPPCAS": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "LOWCAS": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "UPPER.LOW": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "LOWER.UP": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "CAMUPR": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "DROMED": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "FIL": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "FILNA": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "FILE": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "FOURTEEN": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "FIFTEENC": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "SIXTEEN_": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "TWENTY_O": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "THIS": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "?NM?E?": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "N!A!M!": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "NA/ME": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "NA\\ME": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "'QUOT'": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "\"QUOT\"": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "NA>ME>": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "N<AME<": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "NA%%ME": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "NA": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "N|AME|": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "N.A": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    ".NAM": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "NAME ": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "N$ME": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "N@ME@": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "NAM#": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "NA-ME": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    },
+    "_NAME_": {
+        "Info": {
+            "Attributes": "Extents",
+            "Blocks": 1,
+            "BlockSize": 1024,
+            "Length": 1024,
+            "UID": 0
+        }
+    }
+}
