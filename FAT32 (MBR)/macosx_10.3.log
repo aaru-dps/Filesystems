@@ -1,0 +1,160 @@
+Aaru Filesystem Tester (Setter) 4.5.99.2020
+Copyright (C) 2011-2021 Natalia Portillo
+==============================================
+Log started on Thu May 20 13:56:06 2021
+
+
+Parameters: ./fssetter --log /Volumes/VOLUMELABEL/
+Running in Mac OS X (ppc)
+
+OS information:
+	Mac OS X "Panther" 10.3.9
+	Kernel version: Darwin Kernel Version 7.9.0: Wed Mar 30 20:11:17 PST 2005; root:xnu/xnu-517.12.7.obj~1/RELEASE_PPC 
+	Architecture: Power Macintosh
+Volume information:
+	Path: /Volumes/VOLUMELABEL/
+	Filesystem: msdos
+	Bytes per block: 512
+	Volume size: 132132864 bytes
+	Volume free: 132129792 bytes
+		Volume is local.
+		Volume does not respect ownership.
+Error 22 retrieving volume capabilities.
+Creating files with different flags (attributes).
+	File with no dump flag, rc = 0, wRc = 0, sRc = 45, cRc = 0
+	File with immutable flag, rc = 0, wRc = 0, sRc = 0, cRc = 0
+	File with append only flag, rc = 0, wRc = 0, sRc = 45, cRc = 0
+	File with opaque flag, rc = 0, wRc = 0, sRc = 45, cRc = 0
+	File with hidden flag, rc = 0, wRc = 0, sRc = 45, cRc = 0
+	File with archived flag, rc = 0, wRc = 0, sRc = 1, cRc = 0
+	File with super-usr immutable flag, rc = 0, wRc = 0, sRc = 1, cRc = 0
+	File with super-user append only flag, rc = 0, wRc = 0, sRc = 1, cRc = 0
+	File with dataless flag, rc = 0, wRc = 0, sRc = 45, cRc = 0
+Creating attributes files.
+	File with no permissions: name = "NONE", rc = 0, cRc = 0
+	File with set-user-ID: name = "04000", rc = 0, cRc = 0
+	File with set-group-ID: name = "02000", rc = 0, cRc = 0
+	File with sticky bit: name = "01000", rc = 0, cRc = 0
+	File with read by owner: name = "00400", rc = 0, cRc = 0
+	File with write by owner: name = "00200", rc = 0, cRc = 0
+	File with execute by owner: name = "00100", rc = 0, cRc = 0
+	File with read by group: name = "00040", rc = 0, cRc = 0
+	File with write by group: name = "00020", rc = 0, cRc = 0
+	File with execute by group: name = "00010", rc = 0, cRc = 0
+	File with read by others: name = "00004", rc = 0, cRc = 0
+	File with write by others: name = "00002", rc = 0, cRc = 0
+	File with execute by others: name = "00001", rc = 0, cRc = 0
+Error loading setxattr(2) from libSystem: dlcompat: Symbol "_setxattr" not in global context
+Creating resource forks.
+	File with an icon in the resource fork: name = "ICNS", rc = 0, wRc = 0, cRc = 0, rRc = 0
+	File with an picture in the resource fork: name = "PICT", rc = 0, wRc = 0, cRc = 0, rRc = 0
+	File with a version in the resource fork: name = "VERSION", rc = 0, wRc = 0, cRc = 0, rRc = 0
+	File with an icon, a picture and a version in the resource fork: name = "ALL", rc = 0, wRc = 0, cRc = 0, rRc = 0
+Creating files with different filenames.
+	File name = "FILNAM", rc = 0, wRc = 0, cRc = 0
+	File name = "FILNAM.EXT", rc = 0, wRc = 0, cRc = 0
+	File name = "FILENAME", rc = 0, wRc = 0, cRc = 0
+	File name = "FILENAME.EXT", rc = 0, wRc = 0, cRc = 0
+	File name = "UPPCAS", rc = 0, wRc = 0, cRc = 0
+	File name = "lowcas", rc = 0, wRc = 0, cRc = 0
+	File name = "UPPER.low", rc = 0, wRc = 0, cRc = 0
+	File name = "lower.UP", rc = 0, wRc = 0, cRc = 0
+	File name = "CamUpr", rc = 0, wRc = 0, cRc = 0
+	File name = "Dromed", rc = 0, wRc = 0, cRc = 0
+	File name = "droMed", rc = 0, wRc = 0, cRc = 0
+	File name = "FIL NA", rc = 0, wRc = 0, cRc = 0
+	File name = " FILNA", rc = 0, wRc = 0, cRc = 0
+	File name = "FILNA ", rc = 0, wRc = 0, cRc = 0
+	File name = "FILE. XT", rc = 0, wRc = 0, cRc = 0
+	File name = "FILE .EXT", rc = 0, wRc = 0, cRc = 0
+	File name = "FILE . XT", rc = 0, wRc = 0, cRc = 0
+	File name = "Fourteen_Chars", rc = 0, wRc = 0, cRc = 0
+	File name = "FifteenCharacts", rc = 0, wRc = 0, cRc = 0
+	File name = "Sixteen_Characts", rc = 0, wRc = 0, cRc = 0
+	File name = "Twenty_One_Characters", rc = 0, wRc = 0, cRc = 0
+	File name = "This name has thirty charactrs", rc = 0, wRc = 0, cRc = 0
+	File name = "This name has thirty one chactrs", rc = 0, wRc = 0, cRc = 0
+	File name = "This name has thirty two chacters", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has fourty four characterrs", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has sixty three characters like a lazy dromedaire", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has sixty four characters like a redy lazy fox dog", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has one hundred twenty eight characters and once upon a time in a place which name you must buy the book yetnotget", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has two hundred thirty six characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read its", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fourty eight characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book yout", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fifty three characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you get", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fifty four characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you mustd", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fifty five characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you mustdo", rc = 0, wRc = 0, cRc = 0
+	File name = "This filename has two hundred fifty six characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you must get", rc = 0, wRc = 0, cRc = 0
+	File name = "?NM?E?", rc = 63, wRc = 0, cRc = 0
+	File name = "N!A!M!", rc = 0, wRc = 0, cRc = 0
+	File name = "NA/ME", rc = 2, wRc = 0, cRc = 0
+	File name = "NA\ME", rc = 63, wRc = 0, cRc = 0
+	File name = "'QUOT'", rc = 0, wRc = 0, cRc = 0
+	File name = ""QUOT"", rc = 63, wRc = 0, cRc = 0
+	File name = "NA>ME>", rc = 63, wRc = 0, cRc = 0
+	File name = "N<AME<", rc = 63, wRc = 0, cRc = 0
+	File name = "NA%%ME", rc = 0, wRc = 0, cRc = 0
+	File name = "N*A*ME", rc = 63, wRc = 0, cRc = 0
+	File name = "NA:ME", rc = 63, wRc = 0, cRc = 0
+	File name = "N|AME|", rc = 63, wRc = 0, cRc = 0
+	File name = "N.A.ME", rc = 0, wRc = 0, cRc = 0
+	File name = ".NAME", rc = 0, wRc = 0, cRc = 0
+	File name = "NAME.", rc = 0, wRc = 0, cRc = 0
+	File name = "..NAME", rc = 0, wRc = 0, cRc = 0
+	File name = "NAME..", rc = 0, wRc = 0, cRc = 0
+	File name = "N$ME", rc = 0, wRc = 0, cRc = 0
+	File name = "N@ME@", rc = 0, wRc = 0, cRc = 0
+	File name = "NAM#", rc = 0, wRc = 0, cRc = 0
+	File name = "NA-ME", rc = 0, wRc = 0, cRc = 0
+	File name = "_NAME_", rc = 0, wRc = 0, cRc = 0
+Creating timestamped files.
+	File name = "MAXATIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "MAXMTIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "MINATIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "MINMTIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "Y1KATIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "Y1KMTIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "Y2KATIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "Y2KMTIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "LESSATIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+	File name = "LESSMTIME", rc = 0, wRc = 0, cRc = 0, tRc = 0
+Creating links.
+Error 45 creating hard link.
+Error 45 creating symbolic link.
+Error 1 creating directory hard link.
+Creating deepest directory tree.
+	Created 1000 levels of directory hierarchy
+Writing fragmented files:
+	File name = "HALFCLST", size = 256, rc = 0, wRc = 0, cRc = 0
+	File name = "QUARCLST", size = 128, rc = 0, wRc = 0, cRc = 0
+	File name = "TWOCLST", size = 1024, rc = 0, wRc = 0, cRc = 0
+	File name = "TRQTCLST", size = 384, rc = 0, wRc = 0, cRc = 0
+	File name = "TWTQCLST", size = 1408, rc = 0, wRc = 0, cRc = 0
+	File name = "TWO1", size = 1024, rc = 0, wRc = 0, cRc = 0
+	File name = "TWO2", size = 1024, rc = 0, wRc = 0, cRc = 0
+	Deleting "TWO2".
+	File name = "TWO3", size = 1024, rc = 1, wRc = 0, cRc = 0
+	Deleting "TWO1".
+	Deleting "TWO3".
+	File name = "FRAGTHRQ", size = 384, rc = 1, wRc = 0, cRc = 0
+	File name = "FRAGSIXQ", size = 1408, rc = 0, wRc = 0, cRc = 0
+Creating sparse files.
+	File name = "SMALL", size = 16384, rc = 0, wRc = 0, cRc = 0
+	File name = "BIG", size = 122880, rc = 0, wRc = 0, cRc = 0
+Creating lots of files.
+	Created 1000 files
+Creating and deleting files.
+Volume information:
+	Path: /Volumes/VOLUMELABEL/
+	Filesystem: msdos
+	Bytes per block: 512
+	Volume size: 132132864 bytes
+	Volume free: 131356160 bytes
+		Volume is local.
+		Volume does not respect ownership.
+Error 22 retrieving volume capabilities.
+==============================================
+Log finished on Thu May 20 13:56:11 2021
+
+==============================================
+

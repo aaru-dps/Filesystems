@@ -1,0 +1,33 @@
+{
+  "$RECYCLE.BIN": {
+    "Children": {
+      "DESKTOP.INI": {
+        "Info": {
+          "Attributes": "Archive, Hidden, System",
+          "Blocks": 1,
+          "BlockSize": 4096,
+          "Inode": 4,
+          "Length": 129,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-02T14:49:33.29Z",
+          "LastWriteTimeUtc": "2017-07-02T14:49:34Z",
+          "CreationTime": "2017-07-02T15:49:33.29+01:00",
+          "LastWriteTime": "2017-07-02T15:49:34+01:00"
+        },
+        "Md5": "a526b9e7c716b3489d8cc062fbce4005"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory, Hidden, System",
+      "Blocks": 1,
+      "BlockSize": 4096,
+      "Inode": 3,
+      "Length": 4096,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-02T14:49:33.29Z",
+      "LastWriteTimeUtc": "2017-07-02T14:49:34Z",
+      "CreationTime": "2017-07-02T15:49:33.29+01:00",
+      "LastWriteTime": "2017-07-02T15:49:34+01:00"
+    }
+  }
+}

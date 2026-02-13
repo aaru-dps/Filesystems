@@ -1,0 +1,33 @@
+{
+  "System Volume Information": {
+    "Children": {
+      "IndexerVolumeGuid": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 4096,
+          "Inode": 4,
+          "Length": 76,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-02T15:01:10.83Z",
+          "LastWriteTimeUtc": "2017-07-02T15:01:12Z",
+          "CreationTime": "2017-07-02T16:01:10.83+01:00",
+          "LastWriteTime": "2017-07-02T16:01:12+01:00"
+        },
+        "Md5": "62c65582ddfd7f3a05639e49c99301a7"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory, Hidden, System",
+      "Blocks": 1,
+      "BlockSize": 4096,
+      "Inode": 3,
+      "Length": 4096,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-02T15:01:10.83Z",
+      "LastWriteTimeUtc": "2017-07-02T15:01:12Z",
+      "CreationTime": "2017-07-02T16:01:10.83+01:00",
+      "LastWriteTime": "2017-07-02T16:01:12+01:00"
+    }
+  }
+}

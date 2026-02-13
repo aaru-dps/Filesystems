@@ -1,0 +1,1062 @@
+{
+  "._.Trashes": {
+    "Info": {
+      "Attributes": "Archive, Hidden",
+      "Blocks": 1,
+      "BlockSize": 4096,
+      "Inode": 4,
+      "Length": 4096,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-03T22:58:52.22Z",
+      "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+    },
+    "MD5": "5ecad39c470178e1b0ef93e534b60fda"
+  },
+  ".Trashes": {
+    "Children": {
+      "501": {
+        "Children": {},
+        "Info": {
+          "Attributes": "Directory, Hidden",
+          "Blocks": 1,
+          "BlockSize": 4096,
+          "Inode": 10,
+          "Length": 4096,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-03T22:58:52.25Z",
+          "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+        }
+      },
+      "._501": {
+        "Info": {
+          "Attributes": "Archive, Hidden",
+          "Blocks": 1,
+          "BlockSize": 4096,
+          "Inode": 11,
+          "Length": 4096,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-03T22:58:52.25Z",
+          "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+        },
+        "MD5": "5ecad39c470178e1b0ef93e534b60fda"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory, Hidden",
+      "Blocks": 1,
+      "BlockSize": 4096,
+      "Inode": 3,
+      "Length": 4096,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-03T22:58:52.22Z",
+      "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+    }
+  },
+  ".Spotlight-V100": {
+    "Children": {
+      "Store-V2": {
+        "Children": {
+          "9EB2B725-2624-4102-BC33-4BFC53995414": {
+            "Children": {
+              "PSID.DB": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 2,
+                  "BlockSize": 4096,
+                  "Inode": 14,
+                  "Length": 8192,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.27Z",
+                  "LastWriteTimeUtc": "2017-07-03T23:00:34Z"
+                },
+                "MD5": "3a22dd29d291118be4ac093967e83bac"
+              },
+              "tmp.SnowLeopard": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 0,
+                  "BlockSize": 4096,
+                  "Inode": 0,
+                  "Length": 0,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.27Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+              },
+              "tmp.Lion": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 0,
+                  "BlockSize": 4096,
+                  "Inode": 0,
+                  "Length": 0,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.27Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+              },
+              "Lion.created": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 0,
+                  "BlockSize": 4096,
+                  "Inode": 0,
+                  "Length": 0,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.27Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+              },
+              "tmp.Cab": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 0,
+                  "BlockSize": 4096,
+                  "Inode": 0,
+                  "Length": 0,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.27Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+              },
+              "Cab.created": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 0,
+                  "BlockSize": 4096,
+                  "Inode": 0,
+                  "Length": 0,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.27Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+              },
+              "indexState": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 16,
+                  "Length": 28,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.27Z",
+                  "LastWriteTimeUtc": "2017-07-03T23:00:32Z"
+                },
+                "MD5": "5931849557bd584f4a1ce08eeb8e3b19"
+              },
+              "0.indexHead": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 209,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.27Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:59:22Z"
+                },
+                "MD5": "43870b6a3e6a075645b35e17b7c408c7"
+              },
+              "0.indexIds": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 17,
+                  "Length": 16,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "7bea485739dabdca61c3f6f93528dd1c"
+              },
+              "0.indexGroups": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 25,
+                  "Length": 3277,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "795e7eae621000b3057163bae16919c4"
+              },
+              "0.indexPostings": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 26,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "03b152a783a45b0def7e3484acc70b63"
+              },
+              "0.indexTermIds": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 27,
+                  "Length": 344,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "4607b1e68d6204c4668c325777105a64"
+              },
+              "0.indexPositions": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 29,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "620f0b67a91f7f74151bc5be745b7110"
+              },
+              "0.indexPositionTable": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 30,
+                  "Length": 344,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "15120767b40b12ccc180202acd5b968a"
+              },
+              "0.indexDirectory": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 32,
+                  "Length": 2056,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "bd96f4fc5e762e7e8bf1b093ff3b901f"
+              },
+              "0.indexCompactDirectory": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 35,
+                  "Length": 8,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "69c1753bd5f81501d95132d08af04464"
+              },
+              "0.indexArrays": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 36,
+                  "Length": 768,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "4bf146c89e1c1eff4c706035e2529814"
+              },
+              "0.indexUpdates": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 207,
+                  "Length": 13,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "74ced9491bd2602826a58f25c8dd811f"
+              },
+              "0.directoryStoreFile": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 16,
+                  "BlockSize": 4096,
+                  "Inode": 52,
+                  "Length": 65536,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:59:22Z"
+                },
+                "MD5": "a43c4057656a87b73ecbe45688fa754f"
+              },
+              "live.0.indexHead": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 210,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:59:22Z"
+                },
+                "MD5": "9db22b3dffa74dc22a12ec7429860305"
+              },
+              "live.0.indexIds": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 8,
+                  "BlockSize": 4096,
+                  "Inode": 68,
+                  "Length": 32768,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "bb7df04e1b0a2570657527a7e108ae23"
+              },
+              "live.0.indexGroups": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 76,
+                  "Length": 3277,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "610877ce04dc199237813ad5a7952eef"
+              },
+              "live.0.indexPostings": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 77,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "620f0b67a91f7f74151bc5be745b7110"
+              },
+              "live.0.indexTermIds": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 2,
+                  "BlockSize": 4096,
+                  "Inode": 78,
+                  "Length": 8192,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "0829f71740aab1ab98b33eae21dee122"
+              },
+              "live.0.indexPositions": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 80,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "620f0b67a91f7f74151bc5be745b7110"
+              },
+              "live.0.indexPositionTable": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 2,
+                  "BlockSize": 4096,
+                  "Inode": 81,
+                  "Length": 8192,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "0829f71740aab1ab98b33eae21dee122"
+              },
+              "live.0.indexDirectory": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 3,
+                  "BlockSize": 4096,
+                  "Inode": 83,
+                  "Length": 8224,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "8051fb86153f44b694005f8018945b33"
+              },
+              "live.0.indexCompactDirectory": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 86,
+                  "Length": 1024,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "b2817a5232d98f714a697f33da17057b"
+              },
+              "live.0.indexArrays": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 16,
+                  "BlockSize": 4096,
+                  "Inode": 87,
+                  "Length": 65536,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "2758488f2853822895c3479870ba7539"
+              },
+              "live.0.indexUpdates": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 0,
+                  "BlockSize": 4096,
+                  "Inode": 0,
+                  "Length": 0,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+              },
+              "live.0.directoryStoreFile": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 16,
+                  "BlockSize": 4096,
+                  "Inode": 103,
+                  "Length": 65536,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:59:22Z"
+                },
+                "MD5": "a43c4057656a87b73ecbe45688fa754f"
+              },
+              "STORE.DB": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 29,
+                  "BlockSize": 4096,
+                  "Inode": 144,
+                  "Length": 118784,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "e29a826fabcef812e01464d940a523d1"
+              },
+              ".store.db": {
+                "Info": {
+                  "Attributes": "Archive, Hidden",
+                  "Blocks": 29,
+                  "BlockSize": 4096,
+                  "Inode": 119,
+                  "Length": 118784,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.28Z",
+                  "LastWriteTimeUtc": "2017-07-03T23:00:34Z"
+                },
+                "MD5": "a7ca1c0cbdf4b0653002289d2f3fc45c"
+              },
+              "reverseDirectoryStore": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 16,
+                  "BlockSize": 4096,
+                  "Inode": 169,
+                  "Length": 65536,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:59:22Z"
+                },
+                "MD5": "b94ceef4e0ae7e846058be17846810bd"
+              },
+              "tmp.spotlight.state": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 206,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T23:00:32Z"
+                },
+                "MD5": "30f6c46da39702663d1943d6386d3ccc"
+              },
+              "journalAttr.1": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 0,
+                  "BlockSize": 4096,
+                  "Inode": 0,
+                  "Length": 0,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+              },
+              "store_generation": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 190,
+                  "Length": 4,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "f2dd0dedb2c260419ece4a9e03b2e828"
+              },
+              "journals.corespotlight": {
+                "Children": {},
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 191,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                }
+              },
+              "journals.live": {
+                "Children": {},
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 192,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                }
+              },
+              "journals.live_system": {
+                "Children": {},
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 193,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                }
+              },
+              "journals.live_user": {
+                "Children": {},
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 194,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                }
+              },
+              "journals.live_priority": {
+                "Children": {},
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 195,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                }
+              },
+              "journals.assisted_import_pre": {
+                "Children": {},
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 196,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                }
+              },
+              "journals.assisted_import_post": {
+                "Children": {},
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 197,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                }
+              },
+              "journals.health_check": {
+                "Children": {},
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 198,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                }
+              },
+              "journals.migration": {
+                "Children": {},
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 199,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                }
+              },
+              "journals.migration_secondchance": {
+                "Children": {},
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 200,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                }
+              },
+              "journalExclusion": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 0,
+                  "BlockSize": 4096,
+                  "Inode": 0,
+                  "Length": 0,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.29Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+              },
+              "journals.scan": {
+                "Children": {
+                  "RETIRE.2": {
+                    "Info": {
+                      "Attributes": "Archive",
+                      "Blocks": 0,
+                      "BlockSize": 4096,
+                      "Inode": 0,
+                      "Length": 0,
+                      "Links": 1,
+                      "CreationTimeUtc": "2017-07-03T22:58:56.18Z",
+                      "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                    },
+                    "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+                  }
+                },
+                "Info": {
+                  "Attributes": "Directory",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 201,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.3Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                }
+              },
+              "shutdown_time": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 208,
+                  "Length": 4,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.84Z",
+                  "LastWriteTimeUtc": "2017-07-03T23:00:34Z"
+                },
+                "MD5": "72adc2583bfae862195cbd4fea065874"
+              },
+              "reverseDirectoryStore.shadow": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 216,
+                  "Length": 3136,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.85Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "b0b92a9f2046f57ada1fc659bdc85fde"
+              },
+              "0.shadowIndexHead": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 205,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.86Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "c19d1f817e59c4734516f5b95adcc874"
+              },
+              "permStore": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 211,
+                  "Length": 566,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T23:00:33.19Z",
+                  "LastWriteTimeUtc": "2017-07-03T23:00:34Z"
+                },
+                "MD5": "36df9cd9534650230273fac9a2e8a982"
+              },
+              "0.directoryStoreFile.shadow": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 236,
+                  "Length": 1088,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.86Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "05c3f670d5eef252939ecd1c07d91322"
+              },
+              "0.shadowIndexGroups": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 237,
+                  "Length": 2,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.86Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "ea056e943723a4ff97bfd84bdaa864ac"
+              },
+              "live.0.shadowIndexHead": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 217,
+                  "Length": 4096,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.86Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "a0aca1c0f920edf360a29e077e54a71d"
+              },
+              "live.0.shadowIndexTermIds": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 0,
+                  "BlockSize": 4096,
+                  "Inode": 0,
+                  "Length": 0,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.86Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+              },
+              "live.0.shadowIndexPositionTable": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 0,
+                  "BlockSize": 4096,
+                  "Inode": 0,
+                  "Length": 0,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.86Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "d41d8cd98f00b204e9800998ecf8427e"
+              },
+              "live.0.shadowIndexArrays": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 16,
+                  "BlockSize": 4096,
+                  "Inode": 239,
+                  "Length": 65536,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.86Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "2758488f2853822895c3479870ba7539"
+              },
+              "live.0.shadowIndexCompactDirectory": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 218,
+                  "Length": 8,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.86Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "69c1753bd5f81501d95132d08af04464"
+              },
+              "live.0.shadowIndexDirectory": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 219,
+                  "Length": 2056,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.86Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "d27aea7f3368cbf32422a92d0f172b5d"
+              },
+              "live.0.directoryStoreFile.shadow": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 257,
+                  "Length": 1088,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.86Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "05c3f670d5eef252939ecd1c07d91322"
+              },
+              "live.0.shadowIndexGroups": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 258,
+                  "Length": 1,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.86Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+                },
+                "MD5": "93b885adfe0da089cdf634904fd59f71"
+              },
+              "store.updates": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 220,
+                  "Length": 8,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.87Z",
+                  "LastWriteTimeUtc": "2017-07-03T23:00:32Z"
+                },
+                "MD5": "f14c0f3215ad1a64b561c22a8338a466"
+              },
+              "reverseStore.updates": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 221,
+                  "Length": 2,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:52.87Z",
+                  "LastWriteTimeUtc": "2017-07-03T23:00:32Z"
+                },
+                "MD5": "25daad3d9e60b45043a70c4ab7d3b1c6"
+              },
+              "tmp.spotlight.loc": {
+                "Info": {
+                  "Attributes": "Archive",
+                  "Blocks": 1,
+                  "BlockSize": 4096,
+                  "Inode": 261,
+                  "Length": 1968,
+                  "Links": 1,
+                  "CreationTimeUtc": "2017-07-03T22:58:56.18Z",
+                  "LastWriteTimeUtc": "2017-07-03T22:58:56Z"
+                },
+                "MD5": "4ec3e446c161221ae99adcd99a3ba7a2"
+              }
+            },
+            "Info": {
+              "Attributes": "Directory",
+              "Blocks": 2,
+              "BlockSize": 4096,
+              "Inode": 12,
+              "Length": 8192,
+              "Links": 1,
+              "CreationTimeUtc": "2017-07-03T22:58:52.25Z",
+              "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+            }
+          }
+        },
+        "Info": {
+          "Attributes": "Directory",
+          "Blocks": 1,
+          "BlockSize": 4096,
+          "Inode": 6,
+          "Length": 4096,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-03T22:58:52.24Z",
+          "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+        }
+      },
+      "Store-V1": {
+        "Children": {
+          "VolumeConfig.plist": {
+            "Info": {
+              "Attributes": "Archive",
+              "Blocks": 1,
+              "BlockSize": 4096,
+              "Inode": 8,
+              "Length": 348,
+              "Links": 1,
+              "CreationTimeUtc": "2017-07-03T22:58:52.24Z",
+              "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+            },
+            "MD5": "016ef4c99aaf20b21af57b498bc4f07c"
+          }
+        },
+        "Info": {
+          "Attributes": "Directory",
+          "Blocks": 1,
+          "BlockSize": 4096,
+          "Inode": 7,
+          "Length": 4096,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-03T22:58:52.24Z",
+          "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+        }
+      },
+      "VolumeConfiguration.plist": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 4096,
+          "Inode": 202,
+          "Length": 4009,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-03T22:58:52.24Z",
+          "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+        },
+        "MD5": "85e3ba9983e1f7f7cd9ad1e8cc6ba1c1"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory, Hidden",
+      "Blocks": 1,
+      "BlockSize": 4096,
+      "Inode": 5,
+      "Length": 4096,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-03T22:58:52.24Z",
+      "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+    }
+  },
+  ".fseventsd": {
+    "Children": {
+      "fseventsd-uuid": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 4096,
+          "Inode": 204,
+          "Length": 36,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-03T22:58:52.33Z",
+          "LastWriteTimeUtc": "2017-07-03T23:00:34Z"
+        },
+        "MD5": "87af8c71ccfac1e205a9c2a797aaf6e6"
+      },
+      "00000000006a748e": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 4096,
+          "Inode": 222,
+          "Length": 745,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-03T23:00:35.37Z",
+          "LastWriteTimeUtc": "2017-07-03T23:00:34Z"
+        },
+        "MD5": "860c1256390df89114b50cb1f8220a6d"
+      },
+      "00000000006a748f": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 4096,
+          "Inode": 223,
+          "Length": 70,
+          "Links": 1,
+          "CreationTimeUtc": "2017-07-03T23:00:35.37Z",
+          "LastWriteTimeUtc": "2017-07-03T23:00:34Z"
+        },
+        "MD5": "10e8a0823ecfa7a3456865e9351aac80"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory, Hidden",
+      "Blocks": 1,
+      "BlockSize": 4096,
+      "Inode": 203,
+      "Length": 4096,
+      "Links": 1,
+      "CreationTimeUtc": "2017-07-03T22:58:52.33Z",
+      "LastWriteTimeUtc": "2017-07-03T22:58:52Z"
+    }
+  }
+}
