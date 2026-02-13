@@ -1,0 +1,15 @@
+{
+  "IBMBIO.COM": {
+    "Info": {
+      "Attributes": "Archive, Hidden, ReadOnly, System",
+      "Blocks": 3,
+      "BlockSize": 8192,
+      "Inode": 2,
+      "Length": 24576,
+      "Links": 1,
+      "LastWriteTimeUtc": "2017-06-29T23:12:20Z",
+      "LastWriteTime": "2017-06-30T00:12:20+01:00"
+    },
+    "Md5": "16e764ffd33049d3e282a58b4efa134f"
+  }
+}

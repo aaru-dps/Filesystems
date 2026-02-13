@@ -1,0 +1,119 @@
+Aaru Filesystem Tester (Setter) 4.5.99.2020
+Copyright (C) 2011-2021 Natalia Portillo
+==============================================
+Log started on Tue Nov 30 00:04:26 2027
+
+
+Parameters:  --log d:
+Running in Atari ST (m68k)
+
+OS information:
+	Running under TOS 1.98
+	GEMDOS v0.23
+	Country code: 3
+	Video mode: 398516
+	System build date: 1990/01/01
+Error requesting volume information, assuming 512 bps.
+Creating attributes files.
+	File with no attributes: name = "NONE", rc = 0, wRc = 32, cRc = 0
+	File with archived attribute: name = "ARCHIVE", rc = 32, wRc = 42, cRc = 0
+	File with system attribute: name = "SYSTEM", rc = 4, wRc = 40, cRc = 0
+	File with hidden attribute: name = "HIDDEN", rc = 2, wRc = 40, cRc = 0
+	File with read-only attribute: name = "READONLY", rc = 1, wRc = 43, cRc = 0
+	File with hidden, read-only attributes: name = "HIDDREAD", rc = 3, wRc = 83, cRc = 0
+	File with system, read-only attributes: name = "SYSTREAD", rc = 5, wRc = 83, cRc = 0
+	File with system, hidden attributes: name = "SYSTHIDD", rc = 6, wRc = 80, cRc = 0
+	File with system, read-only, hidden attributes: name = "SYSRDYHD", rc = 7, wRc = 123, cRc = 0
+	File with archived, read-only attributes: name = "ARCHREAD", rc = 33, wRc = 85, cRc = 0
+	File with archived, hidden attributes: name = "ARCHHIDD", rc = 34, wRc = 82, cRc = 0
+	File with archived, hidden, read-only attributes: name = "ARCHDRDY", rc = 35, wRc = 125, cRc = 0
+	File with archived, system attributes: name = "ARCHSYST", rc = 36, wRc = 82, cRc = 0
+	File with archived, system, read-only attributes: name = "ARSYSRDY", rc = 37, wRc = 125, cRc = 0
+	File with archived, system, hidden attributes: name = "ARCSYSHD", rc = 38, wRc = 122, cRc = 0
+	File with all (archived, system, hidden, read-only) attributes: name = "ARSYHDRD", rc = 39, wRc = 165, cRc = 0
+Creating files with different filenames.
+	File name = "FILNAM", rc = 0, wRc = 36, cRc = 0
+	File name = "FILNAM.EXT", rc = 0, wRc = 40, cRc = 0
+	File name = "FILENAME", rc = 0, wRc = 38, cRc = 0
+	File name = "FILENAME.EXT", rc = 0, wRc = 42, cRc = 0
+	File name = "UPPCAS", rc = 0, wRc = 36, cRc = 0
+	File name = "lowcas", rc = 0, wRc = 36, cRc = 0
+	File name = "UPPER.low", rc = 0, wRc = 39, cRc = 0
+	File name = "lower.UP", rc = 0, wRc = 38, cRc = 0
+	File name = "CamUpr", rc = 0, wRc = 36, cRc = 0
+	File name = "Dromed", rc = 0, wRc = 36, cRc = 0
+	File name = "droMed", rc = 0, wRc = 36, cRc = 0
+	File name = "FIL NA", rc = 0, wRc = 36, cRc = 0
+	File name = " FILNA", rc = 0, wRc = 36, cRc = 0
+	File name = "FILNA ", rc = 0, wRc = 36, cRc = 0
+	File name = "FILE. XT", rc = 0, wRc = 38, cRc = 0
+	File name = "FILE .EXT", rc = 0, wRc = 39, cRc = 0
+	File name = "FILE . XT", rc = 0, wRc = 39, cRc = 0
+	File name = "Fourteen_Chars", rc = 0, wRc = 44, cRc = 0
+	File name = "FifteenCharacts", rc = 0, wRc = 45, cRc = 0
+	File name = "Sixteen_Characts", rc = 0, wRc = 46, cRc = 0
+	File name = "Twenty_One_Characters", rc = 0, wRc = 51, cRc = 0
+	File name = "This name has thirty charactrs", rc = 0, wRc = 60, cRc = 0
+	File name = "This name has thirty one chactrs", rc = 0, wRc = 62, cRc = 0
+	File name = "This name has thirty two chacters", rc = 0, wRc = 63, cRc = 0
+	File name = "This filename has fourty four characterrs", rc = 0, wRc = 71, cRc = 0
+	File name = "This filename has sixty three characters like a lazy dromedaire", rc = 0, wRc = 93, cRc = 0
+	File name = "This filename has sixty four characters like a redy lazy fox dog", rc = 0, wRc = 94, cRc = 0
+	File name = "This filename has one hundred twenty eight characters and once upon a time in a place which name you must buy the book yetnotget", rc = 0, wRc = 158, cRc = 0
+	File name = "This filename has two hundred thirty six characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read its", rc = 0, wRc = 265, cRc = 0
+	File name = "This filename has two hundred fourty eight characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book yout", rc = 0, wRc = 277, cRc = 0
+	File name = "This filename has two hundred fifty three characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you get", rc = 0, wRc = 282, cRc = 0
+	File name = "This filename has two hundred fifty four characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you mustd", rc = 0, wRc = 283, cRc = 0
+	File name = "This filename has two hundred fifty five characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you mustdo", rc = 0, wRc = 284, cRc = 0
+	File name = "This filename has two hundred fifty six characters and once upon a time in a place which name i have no desire to call to mind there lived not long since one of those gentlemen that keep a lance and well you know it so go and read the book as you must get", rc = 0, wRc = 285, cRc = 0
+	File name = "?NM?E?", rc = 0, wRc = 36, cRc = 0
+	File name = "N!A!M!", rc = 0, wRc = 36, cRc = 0
+	File name = "NA/ME", rc = 0, wRc = 35, cRc = 0
+	File name = "NA\ME", rc = 0, wRc = 35, cRc = 0
+	File name = "'QUOT'", rc = 0, wRc = 36, cRc = 0
+	File name = ""QUOT"", rc = 0, wRc = 36, cRc = 0
+	File name = "NA>ME>", rc = 0, wRc = 36, cRc = 0
+	File name = "N<AME<", rc = 0, wRc = 36, cRc = 0
+	File name = "NA%%ME", rc = 0, wRc = 36, cRc = 0
+	File name = "N*A*ME", rc = 0, wRc = 36, cRc = 0
+	File name = "NA:ME", rc = 0, wRc = 35, cRc = 0
+	File name = "N|AME|", rc = 0, wRc = 36, cRc = 0
+	File name = "N.A.ME", rc = 0, wRc = 36, cRc = 0
+	File name = ".NAME", rc = 0, wRc = 35, cRc = 0
+	File name = "NAME.", rc = 0, wRc = 35, cRc = 0
+	File name = "..NAME", rc = 0, wRc = 36, cRc = 0
+	File name = "NAME..", rc = 0, wRc = 36, cRc = 0
+	File name = "N$ME", rc = 0, wRc = 34, cRc = 0
+	File name = "N@ME@", rc = 0, wRc = 35, cRc = 0
+	File name = "NAM#", rc = 0, wRc = 34, cRc = 0
+	File name = "NA-ME", rc = 0, wRc = 35, cRc = 0
+	File name = "_NAME_", rc = 0, wRc = 36, cRc = 0
+Creating timestamped files.
+	File name = "MAXWTIME", rc = 7, wRc = 56, cRc = 0, tRc = 0
+	File name = "MINWTIME", rc = 7, wRc = 56, cRc = 0, tRc = 0
+	File name = "Y19WTIME", rc = 7, wRc = 56, cRc = 0, tRc = 0
+	File name = "Y2KWTIME", rc = 7, wRc = 56, cRc = 0, tRc = 0
+	File name = "HALFCLST", size = 256, rc = 0, wRc = 0, cRc = 0
+	File name = "QUARCLST", size = 128, rc = 8, wRc = 128, cRc = 0
+	File name = "TWOCLST", size = 1024, rc = 7, wRc = 1024, cRc = 0
+	File name = "TRQTCLST", size = 384, rc = 7, wRc = 384, cRc = 0
+	File name = "TWTQCLST", size = 1408, rc = 7, wRc = 1408, cRc = 0
+	File name = "TWO1", size = 1024, rc = 7, wRc = 1024, cRc = 0
+	File name = "TWO2", size = 1024, rc = 7, wRc = 1024, cRc = 0
+	Deleting "TWO2".
+	File name = "TWO3", size = 1024, rc = 0, wRc = 1024, cRc = 0
+	Deleting "TWO1".
+	Deleting "TWO3".
+	File name = "FRAGTHRQ", size = 384, rc = 0, wRc = 384, cRc = 0
+	File name = "FRAGSIXQ", size = 1408, rc = 7, wRc = 1408, cRc = 0
+Creating lots of files.
+	Created 100 files
+Creating and deleting files.
+Creating deepest directory tree.
+	Created 90 levels of directory hierarchy
+Error requesting volume information, assuming 512 bps.
+==============================================
+Log finished on Tue Nov 30 00:06:51 2027
+
+==============================================
+

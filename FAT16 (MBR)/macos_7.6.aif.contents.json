@@ -1,0 +1,81 @@
+{
+  "FINDER.DAT": {
+    "Info": {
+      "Attributes": "Archive, Hidden",
+      "Blocks": 1,
+      "BlockSize": 8192,
+      "Inode": 2,
+      "Length": 460,
+      "Links": 1,
+      "LastWriteTimeUtc": "2017-07-07T04:52:48Z",
+      "LastWriteTime": "2017-07-07T05:52:48+01:00"
+    },
+    "Md5": "f47563435544ce5436a2c50ae9e9b752"
+  },
+  "DESKTOP": {
+    "Info": {
+      "Attributes": "Archive, Hidden",
+      "Blocks": 0,
+      "BlockSize": 8192,
+      "Inode": 0,
+      "Length": 0,
+      "Links": 1,
+      "LastWriteTimeUtc": "2017-07-07T04:52:30Z",
+      "LastWriteTime": "2017-07-07T05:52:30+01:00"
+    },
+    "Md5": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "RESOURCE.FRK": {
+    "Children": {
+      "DESKTOP": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 1,
+          "BlockSize": 8192,
+          "Inode": 4,
+          "Length": 800,
+          "Links": 1,
+          "LastWriteTimeUtc": "2017-07-07T04:52:48Z",
+          "LastWriteTime": "2017-07-07T05:52:48+01:00"
+        },
+        "Md5": "71261efbdabf52d0377012f51819845b"
+      },
+      "!APPLEHD.SCS": {
+        "Info": {
+          "Attributes": "Archive",
+          "Blocks": 16,
+          "BlockSize": 8192,
+          "Inode": 5,
+          "Length": 129091,
+          "Links": 1,
+          "LastWriteTimeUtc": "2017-07-07T04:52:48Z",
+          "LastWriteTime": "2017-07-07T05:52:48+01:00"
+        },
+        "Md5": "ee9d6026975f9c737e82ff25d2ddd87d"
+      }
+    },
+    "Info": {
+      "Attributes": "Directory, Hidden",
+      "Blocks": 1,
+      "BlockSize": 8192,
+      "Inode": 3,
+      "Length": 8192,
+      "Links": 1,
+      "LastWriteTimeUtc": "2017-07-07T04:52:30Z",
+      "LastWriteTime": "2017-07-07T05:52:30+01:00"
+    }
+  },
+  "!APPLEHD.SCS": {
+    "Info": {
+      "Attributes": "Archive",
+      "Blocks": 0,
+      "BlockSize": 8192,
+      "Inode": 0,
+      "Length": 0,
+      "Links": 1,
+      "LastWriteTimeUtc": "1993-03-23T21:45:28Z",
+      "LastWriteTime": "1993-03-23T21:45:28+00:00"
+    },
+    "Md5": "d41d8cd98f00b204e9800998ecf8427e"
+  }
+}
