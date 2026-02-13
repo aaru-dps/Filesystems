@@ -1,0 +1,324 @@
+{
+  "AaruMetadata": {
+    "BlockMedias": [
+      {
+        "Image": {
+          "Format": "Aaru",
+          "Offset": 0,
+          "Value": "wiiu-fs_contents.aif"
+        },
+        "Size": 1006632960,
+        "Checksums": [
+          {
+            "Type": "Adler32",
+            "Value": "9f2e4e79"
+          },
+          {
+            "Type": "CRC16",
+            "Value": "49e1"
+          },
+          {
+            "Type": "CRC32",
+            "Value": "1ec51e92"
+          },
+          {
+            "Type": "CRC64",
+            "Value": "99202a4848020a33"
+          },
+          {
+            "Type": "Md5",
+            "Value": "6e8ad0cfe138ce457848a0e35cac6c7b"
+          },
+          {
+            "Type": "Sha1",
+            "Value": "1b67a31ce7bcb5121c0abb0968a6861ff335bfe5"
+          },
+          {
+            "Type": "Sha256",
+            "Value": "bac02eecc3bb66d09f5a0826f4391d09ccb9f2fdc71c0c7d18fd075337833635"
+          },
+          {
+            "Type": "Sha384",
+            "Value": "b6d08c516d2aa7524bad770e12f2eedee1c17a0eeaca4ba9f117d233e876bce707bef8fdfb27dd619d4988be886f57fa"
+          },
+          {
+            "Type": "Sha512",
+            "Value": "240f4320c327e85ea58b32184c539e5bb626100385e8e31370bd2d4d29856bcffad70ab935401e9528a6db7d8736fb038f2f41d791068f2ad08cd6d37bd6184b"
+          },
+          {
+            "Type": "SpamSum",
+            "Value": "12582912:jwT\u002BYZv2GixazUdrqIGRmKoEtIayH9FfT3bVNBEnxcKgFr\u002B1HVM8vwW6lTC6sOy:ET3OGixaAdWBMFdFDecKgFiHOnW6NBW"
+          },
+          {
+            "Type": "Fletcher16",
+            "Value": "0b2f"
+          },
+          {
+            "Type": "Fletcher32",
+            "Value": "e12985a9"
+          }
+        ],
+        "ContentChecksums": [
+          {
+            "Type": "Adler32",
+            "Value": "383c62b4"
+          },
+          {
+            "Type": "CRC16",
+            "Value": "e2be"
+          },
+          {
+            "Type": "CRC32",
+            "Value": "ecbb0942"
+          },
+          {
+            "Type": "CRC64",
+            "Value": "e37418733612c93f"
+          },
+          {
+            "Type": "Md5",
+            "Value": "e873583c306be810eae5f75de83a080e"
+          },
+          {
+            "Type": "Sha1",
+            "Value": "be119807f1c233d5bdb8bdc9e3952ee7c0109151"
+          },
+          {
+            "Type": "Sha256",
+            "Value": "0bf30ef24b2ad8fec260369947172807e2878b84a6bb76583953676729738dd8"
+          },
+          {
+            "Type": "Sha384",
+            "Value": "5a8d034a9fbed40ebb53683483fb9c603f1d43b72ba6c8518b046291fd8a8635e37158dd4ddc120063ec51723f62ef6f"
+          },
+          {
+            "Type": "Sha512",
+            "Value": "9fabbdc0a125bdccb4b6fa65fe9e293a7735af7b34f7708376fc0ff687f1136745bb722593b6fca96a0cf0e3c0104a8c48601429d60813ab006bda8526700652"
+          },
+          {
+            "Type": "SpamSum",
+            "Value": "12582912:rkX\u002BoZDCGyZi/odneICxmKUkRUS\u002BHhBLT3DFBZMnp4OExzu1flw8TAe\u002B1Ly6wab:QXbmGyZiQdeNUtBBLu4OExafCze\u002BRBT"
+          },
+          {
+            "Type": "Fletcher16",
+            "Value": "bb14"
+          },
+          {
+            "Type": "Fletcher32",
+            "Value": "15a632e1"
+          }
+        ],
+        "Sequence": {
+          "MediaSequence": 1,
+          "TotalMedia": 1
+        },
+        "Manufacturer": "General",
+        "Model": "UDisk",
+        "Serial": "2309061551291835700027",
+        "PhysicalBlockSize": 512,
+        "LogicalBlockSize": 512,
+        "LogicalBlocks": 1966080,
+        "SCSI": {
+          "Inquiry": {
+            "Image": "wiiu-fs_contents.aif",
+            "Size": 36,
+            "Checksums": [
+              {
+                "Type": "Adler32",
+                "Value": "8de00785"
+              },
+              {
+                "Type": "CRC16",
+                "Value": "120a"
+              },
+              {
+                "Type": "CRC32",
+                "Value": "8c663cf1"
+              },
+              {
+                "Type": "CRC64",
+                "Value": "ad8629f15973fe53"
+              },
+              {
+                "Type": "Md5",
+                "Value": "e59461d0c6fabd4c4029fab172c2b353"
+              },
+              {
+                "Type": "Sha1",
+                "Value": "9f8ce1bda67c7bc475cecd3efe7d76770599dbf3"
+              },
+              {
+                "Type": "Sha256",
+                "Value": "98d211ee2b9bd6f90f62e3c96d51c10f9789087df6a23f1afae869f4e722ffc1"
+              },
+              {
+                "Type": "Sha384",
+                "Value": "3faed99b4245c68aa74e838c28f4c10181222f81c3eedc5c630991f23643b39c4028687dd382aef4fdc67571b36df0c1"
+              },
+              {
+                "Type": "Sha512",
+                "Value": "94306ac850a23c26f9ed0e8ed5872b880b1eca605cf19fb2c30d06c2f939c363506d48030aa562851282c3069a9f17f55ad231b06383c1c40979543bb09cdc99"
+              },
+              {
+                "Type": "SpamSum",
+                "Value": "3:/O7u4DNQVn:27An"
+              },
+              {
+                "Type": "Fletcher16",
+                "Value": "4a8b"
+              },
+              {
+                "Type": "Fletcher32",
+                "Value": "8dbc0784"
+              }
+            ]
+          },
+          "ModeSense": {
+            "Image": "wiiu-fs_contents.aif",
+            "Size": 12,
+            "Checksums": [
+              {
+                "Type": "Adler32",
+                "Value": "06a40113"
+              },
+              {
+                "Type": "CRC16",
+                "Value": "8b5c"
+              },
+              {
+                "Type": "CRC32",
+                "Value": "85fe87f2"
+              },
+              {
+                "Type": "CRC64",
+                "Value": "c4a4718470270f4a"
+              },
+              {
+                "Type": "Md5",
+                "Value": "cd42b8e03b1e3395df562c706602e410"
+              },
+              {
+                "Type": "Sha1",
+                "Value": "1c3f7e390bd684e7176816528c21da32710951ec"
+              },
+              {
+                "Type": "Sha256",
+                "Value": "7f0d1cd32be6b2921d7d9675421290091c36e3f733449274218330cb6b1f0443"
+              },
+              {
+                "Type": "Sha384",
+                "Value": "d5ba23f7430d2642d01d97cdf52a2b9bed51a847ed1626cd08ca5eca82c9201808d0d479e7341e69e2cb486118622d42"
+              },
+              {
+                "Type": "Sha512",
+                "Value": "e5a655b81962dd73e16bade2403da7f6aa306b9ea22755a269d8a7b6e90b9b8ecc7f320ba3b8b4de0ca1731462d138bed30a3dbe765bf5e3595a16f934b33a7b"
+              },
+              {
+                "Type": "SpamSum",
+                "Value": "3:etEX:yEX"
+              },
+              {
+                "Type": "Fletcher16",
+                "Value": "9e13"
+              },
+              {
+                "Type": "Fletcher32",
+                "Value": "06980112"
+              }
+            ]
+          }
+        },
+        "Usb": {
+          "VendorID": 43981,
+          "ProductID": 4660,
+          "Descriptors": {
+            "Image": "wiiu-fs_contents.aif",
+            "Size": 50,
+            "Checksums": [
+              {
+                "Type": "Adler32",
+                "Value": "797d040a"
+              },
+              {
+                "Type": "CRC16",
+                "Value": "018a"
+              },
+              {
+                "Type": "CRC32",
+                "Value": "36f5310e"
+              },
+              {
+                "Type": "CRC64",
+                "Value": "ed6b01da240e9d49"
+              },
+              {
+                "Type": "Md5",
+                "Value": "3fb2b871de71e999cbb38ce2aa489085"
+              },
+              {
+                "Type": "Sha1",
+                "Value": "c231564a52a76e60f6b8712b66f2cf770dd8ae5f"
+              },
+              {
+                "Type": "Sha256",
+                "Value": "6d9e2410d8bf282d8f090319a783fdf9956e642cd211bedb93b5d9fec81cd7c5"
+              },
+              {
+                "Type": "Sha384",
+                "Value": "2fd99fb6c86f03a678b988d08ec72afeacbd661b6d01956e8f4cd355c1742c82515ed326354fcec589a29fa1138e60aa"
+              },
+              {
+                "Type": "Sha512",
+                "Value": "3acf59198c4fb45423609be2b8329f9d2f2c30d6a4bd8dc9555aed9bdcb515a87d0d896b6b217254782688efa795975ed099845d64f62762e8d8530ebd8b1875"
+              },
+              {
+                "Type": "SpamSum",
+                "Value": "3:WR68tjviguKH:w68t2q"
+              },
+              {
+                "Type": "Fletcher16",
+                "Value": "c40d"
+              },
+              {
+                "Type": "Fletcher32",
+                "Value": "794b0409"
+              }
+            ]
+          }
+        },
+        "Heads": 16,
+        "Cylinders": 1950,
+        "SectorsPerTrack": 63,
+        "FileSystemInformation": [
+          {
+            "Sequence": 0,
+            "StartSector": 0,
+            "EndSector": 1966079
+          }
+        ],
+        "DumpHardware": [
+          {
+            "Manufacturer": "General",
+            "Model": "UDisk",
+            "Firmware": "5.00",
+            "Serial": "2309061551291835700027",
+            "Extents": [
+              {
+                "Start": 0,
+                "End": 1966079
+              }
+            ],
+            "Software": {
+              "Name": "Aaru",
+              "Version": "6.0.0.0",
+              "OperatingSystem": "Linux"
+            }
+          }
+        ],
+        "MediaType": "Unknown",
+        "MediaSubType": "Unknown",
+        "Interface": "USB"
+      }
+    ]
+  }
+}

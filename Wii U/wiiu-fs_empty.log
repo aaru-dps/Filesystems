@@ -1,0 +1,62 @@
+Registro empezado el 8/11/2023 16:09:46
+###################### Información del sistema #####################
+Linux 6.5.9.2 (64-bit)
+.NET 8.0.0-rc.2.23479.6
+
+#################### Información del programa ######################
+Aaru 6.0.0-alpha9+48aa25b3.48aa25b3ea33d3650e9690745a622242606567fa
+Corriendo en 64-bits
+Corriendo como superusuario: Sí
+Versión de DEPURACIÓN
+Línea de comandos: /home/claunia/Development/Aaru/Aaru/Aaru/bin/Debug/net8.0/aaru.dll m dump /dev/sde wiiu-fs_empty.aif
+
+#################### Información del dispositivo ###################
+Fabricante: General
+Modelo: UDisk
+Revisión del firmware: 5.00
+Número de serie: 2309061551291835700027
+Dispositivo extraíble: True
+Tipo de dispositivo: SCSI
+Dispositivo CompactFlash: False
+Dispositivo PCMCIA: False
+Dispositivo USB: True
+Fabricante USB: General
+Producto USB: UDisk
+Número de serie USB: 2309061551291835700027
+ID del fabricante USB: ABCDh
+ID del producto USB: 1234h
+Dispositivo FireWire: False
+####################################################################
+
+################# Registro de progreso del volcado #################
+2023-11-08T16:09:46 Formato de la imagen de salida: Formato Aaru.
+2023-11-08T16:09:46 Dispositivo en la base de datos desde el 19/10/2022 12:29:02.
+2023-11-08T16:09:46 Inicializando el lector.
+2023-11-08T16:09:46 Solicitando MODE SENSE (10).
+2023-11-08T16:09:46 Solicitando MODE SENSE (8).
+2023-11-08T16:09:46 El dispositivo reporta 1966080 bloques (1006632960 bytes).
+2023-11-08T16:09:46 El dispositivo puede leer 64 bloques a la vez.
+2023-11-08T16:09:46 El dispositivo reporta 512 bytes por bloque lógico.
+2023-11-08T16:09:46 El dispositivo reporta 512 bytes por bloque físico.
+2023-11-08T16:09:46 Tipo de dispositivo SCSI: DirectAccess.
+2023-11-08T16:09:46 Tipo de medio SCSI: 0.
+2023-11-08T16:09:46 Tipo de densidad SCSI: 0.
+2023-11-08T16:09:46 Página de modo SCSI de disquetera presente: False.
+2023-11-08T16:09:46 Medio identificado como Unknown.
+2023-11-08T16:09:46 Leyendo 64 sectores a la vez.
+2023-11-08T16:11:11 Volcado terminado en 1 minuto.
+2023-11-08T16:11:11 Velocidad media de volcado: Humanizer.Bytes.ByteRate
+2023-11-08T16:11:11 Velocidad media de escritura: Humanizer.Bytes.ByteRate
+2023-11-08T16:11:11 Leyendo descriptores USB.
+2023-11-08T16:11:11 Solicitando SCSI INQUIRY.
+2023-11-08T16:11:11 Solicitando MODE SENSE (10).
+2023-11-08T16:11:11 Solicitando MODE SENSE (8).
+2023-11-08T16:11:11 Cerrando fichero de salida.
+2023-11-08T16:11:13 Cerrado en 2 segundos.
+2023-11-08T16:11:13 Creando sidecar.
+2023-11-08T16:14:37 Sidecar creado en 3 minutos.
+2023-11-08T16:14:37 Velocidad media de checksum: Humanizer.Bytes.ByteRate
+2023-11-08T16:14:37 Solicitando MODE SENSE (10).
+2023-11-08T16:14:37 Solicitando MODE SENSE (8).
+####################################################################
+Registro finalizado el 8/11/2023 16:14:37

@@ -1,0 +1,62 @@
+Start logging at 11/8/2023 4:26:37 PM
+################# System information #################
+Linux 6.5.9.2 (64-bit)
+.NET 8.0.0-rc.2.23479.6
+
+################# Program information ################
+Aaru 6.0.0-alpha9+48aa25b3.48aa25b3ea33d3650e9690745a622242606567fa
+Running in 64-bit
+Running as superuser: Yes
+DEBUG version
+Command line: /home/claunia/Development/Aaru/Aaru/Aaru/bin/Debug/net8.0/aaru.dll m dump /dev/sdd wiiu-fs_contents.aif
+
+################# Device information #################
+Manufacturer: General
+Model: UDisk
+Firmware revision: 5.00
+Serial number: 2309061551291835700027
+Removable device: True
+Device type: SCSI
+CompactFlash device: False
+PCMCIA device: False
+USB device: True
+USB manufacturer: General
+USB product: UDisk
+USB serial: 2309061551291835700027
+USB vendor ID: ABCDh
+USB product ID: 1234h
+FireWire device: False
+######################################################
+
+################ Dumping progress log ################
+2023-11-08T16:26:37 Output image format: Aaru Format.
+2023-11-08T16:26:37 Device in database since 10/19/2022 12:29:02 PM.
+2023-11-08T16:26:37 Initializing reader.
+2023-11-08T16:26:37 Requesting MODE SENSE (10).
+2023-11-08T16:26:37 Requesting MODE SENSE (6).
+2023-11-08T16:26:37 Device reports 1966080 blocks (1006632960 bytes).
+2023-11-08T16:26:37 Device can read 64 blocks at a time.
+2023-11-08T16:26:37 Device reports 512 bytes per logical block.
+2023-11-08T16:26:37 Device reports 512 bytes per physical block.
+2023-11-08T16:26:37 SCSI device type: DirectAccess.
+2023-11-08T16:26:37 SCSI medium type: 0.
+2023-11-08T16:26:37 SCSI density type: 0.
+2023-11-08T16:26:37 SCSI floppy mode page present: False.
+2023-11-08T16:26:37 Media identified as Unknown.
+2023-11-08T16:26:37 Reading 64 sectors at a time.
+2023-11-08T16:30:02 Dump finished in 3 minutes.
+2023-11-08T16:30:02 Average dump speed: Humanizer.Bytes.ByteRate
+2023-11-08T16:30:02 Average write speed: Humanizer.Bytes.ByteRate
+2023-11-08T16:30:02 Reading USB descriptors.
+2023-11-08T16:30:02 Requesting SCSI INQUIRY.
+2023-11-08T16:30:02 Requesting MODE SENSE (10).
+2023-11-08T16:30:02 Requesting MODE SENSE (6).
+2023-11-08T16:30:02 Closing output file.
+2023-11-08T16:30:10 Closed in 7 seconds.
+2023-11-08T16:30:10 Creating sidecar.
+2023-11-08T16:34:50 Sidecar created in 4 minutes.
+2023-11-08T16:34:50 Average checksum speed: Humanizer.Bytes.ByteRate
+2023-11-08T16:34:50 Requesting MODE SENSE (10).
+2023-11-08T16:34:50 Requesting MODE SENSE (6).
+######################################################
+End logging on 11/8/2023 4:34:51 PM

@@ -1,0 +1,30 @@
+{
+  "AaruResume": {
+    "BadBlocks": [],
+    "CreationDate": "2023-11-08T16:26:37.5178593Z",
+    "LastBlock": 1966079,
+    "LastWriteDate": "2023-11-08T16:34:51.5889552Z",
+    "NextBlock": 1966080,
+    "Removable": true,
+    "Tape": false,
+    "Tries": [
+      {
+        "Manufacturer": "General",
+        "Model": "UDisk",
+        "Firmware": "5.00",
+        "Serial": "2309061551291835700027",
+        "Extents": [
+          {
+            "Start": 0,
+            "End": 1966079
+          }
+        ],
+        "Software": {
+          "Name": "Aaru",
+          "Version": "6.0.0.0",
+          "OperatingSystem": "Linux"
+        }
+      }
+    ]
+  }
+}
